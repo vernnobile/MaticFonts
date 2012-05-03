@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idot" format="1">
+  <advance width="432"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="dotaccent" xOffset="22" yOffset="1585"/>
+    <component base="I"/>
+  </outline>
+</glyph>
