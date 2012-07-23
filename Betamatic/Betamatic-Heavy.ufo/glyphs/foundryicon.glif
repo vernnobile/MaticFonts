@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foundryicon" format="1">
+  <advance width="1506"/>
+  <outline>
+    <contour>
+      <point x="1581.16" y="827.081" type="line"/>
+      <point x="1126.98" y="490.214" type="line"/>
+      <point x="1316.5" y="56.1496" type="line"/>
+      <point x="1101.3" y="-46.1848" type="line"/>
+      <point x="693.947" y="254.596" type="line"/>
+      <point x="228.29" y="-1.01954" type="line"/>
+      <point x="26.2567" y="107.27" type="line"/>
+      <point x="335.582" y="514.599" type="line"/>
+      <point x="-56.0941" y="833.82" type="line"/>
+      <point x="145.342" y="952.124" type="line"/>
+      <point x="383.23" y="950" type="line"/>
+      <point x="589.172" y="950" type="line"/>
+      <point x="827.138" y="1473.07" type="line"/>
+      <point x="950.02" y="1223.93" type="line"/>
+      <point x="1020.46" y="955.556" type="line"/>
+      <point x="1347.01" y="951.856" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>24</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

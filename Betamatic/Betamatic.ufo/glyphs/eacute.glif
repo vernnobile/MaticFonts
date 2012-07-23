@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute" format="1">
+  <advance width="681"/>
+  <unicode hex="00E9"/>
+  <outline>
+    <component base="acute" xOffset="15.1439" yOffset="198"/>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>713</integer>
+	    <key>width</key>	    <integer>109</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1483</integer>
+	    <key>width</key>	    <integer>288</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>145</integer>
+	    <key>width</key>
+	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>162</integer>
+	    <key>width</key>
+	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>227</integer>
+	    <key>width</key>
+	    <integer>450</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

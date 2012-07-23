@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DF" format="1">
+  <advance width="885"/>
+  <unicode hex="01DF"/>
+  <outline>
+    <component base="adieresis"/>
+    <component base="macron" xOffset="-94.2518" yOffset="1047"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-10</integer>
+	    <key>width</key>	    <integer>12</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1485</integer>
+	    <key>width</key>	    <integer>141</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1751</integer>
+	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-4</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>59</integer>
+	    <key>width</key>
+	    <integer>575</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>542</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="1">
+  <advance width="724"/>
+  <unicode hex="0129"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tilde" xOffset="-129.147" yOffset="487"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>16</integer>
+	    <key>width</key>	    <integer>114</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1254</integer>
+	    <key>width</key>	    <integer>102</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1484</integer>
+	    <key>width</key>	    <integer>103</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1484</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>1</integer>
+	    <key>width</key>
+	    <integer>129</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>268</integer>
+	    <key>width</key>
+	    <integer>145</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>286</integer>
+	    <key>width</key>
+	    <integer>147</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>492</integer>
+	    <key>width</key>
+	    <integer>134</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

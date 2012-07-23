@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="1">
+  <advance width="731"/>
+  <unicode hex="0157"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni0326" xOffset="136.583" yOffset="17.8701"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-543</integer>
+	    <key>width</key>	    <integer>386</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-13</integer>
+	    <key>width</key>	    <integer>9</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1289</integer>
+	    <key>width</key>	    <integer>76</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>122</integer>
+	    <key>width</key>
+	    <integer>135</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>171</integer>
+	    <key>width</key>
+	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>340</integer>
+	    <key>width</key>
+	    <integer>253</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>518</integer>
+	    <key>width</key>
+	    <integer>133</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

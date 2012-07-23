@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="1">
+  <advance width="948"/>
+  <unicode hex="0128"/>
+  <outline>
+    <component base="I"/>
+    <component base="tilde" xOffset="-45.7516" yOffset="711"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>19</integer>
+	    <key>width</key>	    <integer>268</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1249</integer>
+	    <key>width</key>	    <integer>300</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1279</integer>
+	    <key>width</key>	    <integer>290</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1605</integer>
+	    <key>width</key>	    <integer>432</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

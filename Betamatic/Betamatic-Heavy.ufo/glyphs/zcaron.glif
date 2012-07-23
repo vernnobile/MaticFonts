@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="1">
+  <advance width="1029"/>
+  <unicode hex="017E"/>
+  <outline>
+    <component base="caron" xOffset="111.158" yOffset="558"/>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-6</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>18</integer>
+	    <key>width</key>	    <integer>262</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1072</integer>
+	    <key>width</key>	    <integer>287</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1379</integer>
+	    <key>width</key>	    <integer>638</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="1355"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="cedilla" xOffset="479.56" yOffset="21"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1033</integer>
+	    <key>width</key>	    <integer>301</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1060</integer>
+	    <key>width</key>	    <integer>304</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>450</integer>
+	    <key>width</key>
+	    <integer>589</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>451</integer>
+	    <key>width</key>
+	    <integer>535</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

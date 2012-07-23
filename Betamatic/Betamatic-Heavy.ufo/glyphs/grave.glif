@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="771"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="856.508" y="1591.26" type="line"/>
+      <point x="577.364" y="1414.96" type="line"/>
+      <point x="-22.7466" y="1575.69" type="line"/>
+      <point x="110.887" y="1852.17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1415</integer>
+	    <key>width</key>	    <integer>437</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

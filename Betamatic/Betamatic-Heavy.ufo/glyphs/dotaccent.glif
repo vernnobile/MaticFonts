@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="478"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="41" y="1463" type="curve" smooth="yes"/>
+      <point x="41" y="1581.38"/>
+      <point x="153.048" y="1644"/>
+      <point x="243" y="1644" type="curve" smooth="yes"/>
+      <point x="334.913" y="1644"/>
+      <point x="440" y="1577.79"/>
+      <point x="440" y="1465" type="curve" smooth="yes"/>
+      <point x="440" y="1332.09"/>
+      <point x="312.227" y="1288"/>
+      <point x="233" y="1288" type="curve" smooth="yes"/>
+      <point x="141.972" y="1288"/>
+      <point x="41" y="1352.73"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1288</integer>
+	    <key>width</key>	    <integer>356</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>41</integer>
+	    <key>width</key>
+	    <integer>399</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

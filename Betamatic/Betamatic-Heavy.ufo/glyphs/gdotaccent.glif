@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent" format="1">
+  <advance width="1496"/>
+  <unicode hex="0121"/>
+  <outline>
+    <component base="dotaccentcmb" xOffset="439" yOffset="93"/>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-16</integer>
+	    <key>width</key>	    <integer>311</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>416</integer>
+	    <key>width</key>	    <integer>309</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1048</integer>
+	    <key>width</key>	    <integer>306</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1381</integer>
+	    <key>width</key>	    <integer>356</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>101</integer>
+	    <key>width</key>
+	    <integer>385</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>480</integer>
+	    <key>width</key>
+	    <integer>399</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

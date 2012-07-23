@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="971"/>
+  <unicode hex="0114"/>
+  <outline>
+    <component base="E"/>
+    <component base="breve" xOffset="77" yOffset="840"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-12</integer>
+	    <key>width</key>	    <integer>308</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>648</integer>
+	    <key>width</key>	    <integer>319</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1219</integer>
+	    <key>width</key>	    <integer>314</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1605</integer>
+	    <key>width</key>	    <integer>479</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>109</integer>
+	    <key>width</key>
+	    <integer>658</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>155</integer>
+	    <key>width</key>
+	    <integer>383</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>155</integer>
+	    <key>width</key>
+	    <integer>416</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

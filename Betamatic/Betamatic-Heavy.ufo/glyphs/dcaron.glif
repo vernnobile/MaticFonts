@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="1541"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="comma" xOffset="1110" yOffset="1177"/>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-13</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>873</integer>
+	    <key>width</key>	    <integer>590</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1193</integer>
+	    <key>width</key>	    <integer>156</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>152</integer>
+	    <key>width</key>
+	    <integer>359</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>162</integer>
+	    <key>width</key>
+	    <integer>392</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>954</integer>
+	    <key>width</key>
+	    <integer>358</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1196</integer>
+	    <key>width</key>
+	    <integer>457</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

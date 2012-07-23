@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex" format="1">
+  <advance width="1395"/>
+  <unicode hex="0125"/>
+  <outline>
+    <component base="circumflex" xOffset="292.724" yOffset="569"/>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>581</integer>
+	    <key>width</key>	    <integer>233</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>596</integer>
+	    <key>width</key>	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1359</integer>
+	    <key>width</key>	    <integer>671</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>134</integer>
+	    <key>width</key>
+	    <integer>405</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>152</integer>
+	    <key>width</key>
+	    <integer>361</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>819</integer>
+	    <key>width</key>
+	    <integer>387</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>869</integer>
+	    <key>width</key>
+	    <integer>393</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="1355"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="451.233" y="8.84961" type="line"/>
+      <point x="451.233" y="307.445" type="line"/>
+      <point x="379.873" y="1060.85" type="line"/>
+      <point x="337.021" y="1059.84" type="line"/>
+      <point x="148" y="1064.95" type="line"/>
+      <point x="149.56" y="1363.73" type="line"/>
+      <point x="1206.56" y="1334.28" type="line"/>
+      <point x="1206.56" y="1033" type="line"/>
+      <point x="944.156" y="1033" type="line"/>
+      <point x="986.139" y="8.84961" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1033</integer>
+	    <key>width</key>	    <integer>301</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1060</integer>
+	    <key>width</key>	    <integer>304</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>451</integer>
+	    <key>width</key>
+	    <integer>535</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

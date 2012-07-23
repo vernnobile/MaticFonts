@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01D7" format="1">
+  <advance width="1704"/>
+  <unicode hex="01D7"/>
+  <outline>
+    <component base="Udieresis"/>
+    <component base="acute" xOffset="488" yOffset="688"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-37</integer>
+	    <key>width</key>	    <integer>336</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1605</integer>
+	    <key>width</key>	    <integer>345</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1853</integer>
+	    <key>width</key>	    <integer>528</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>100</integer>
+	    <key>width</key>
+	    <integer>390</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>335</integer>
+	    <key>width</key>
+	    <integer>387</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>881</integer>
+	    <key>width</key>
+	    <integer>387</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1205</integer>
+	    <key>width</key>
+	    <integer>365</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
