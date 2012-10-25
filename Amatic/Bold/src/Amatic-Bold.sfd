@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.1
 FontName: Amatic-Bold
 FullName: Amatic Bold
 FamilyName: Amatic
@@ -14,15 +14,14 @@ Descent: 410
 UFOAscent: 2048
 UFODescent: -53
 LayerCount: 2
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
+Layer: 0 0 "Back"  1 0
+Layer: 1 0 "Fore"  0 0
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1336026831
-ModificationTime: 1336046319
+ModificationTime: 1351171039
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 3
@@ -66,7 +65,7 @@ KernClass2: 32 23 "'kern' Horizontal Kerning lookup 1 kerning class 1"
  35 N Nacute Ncaron Ncommaaccent Ntilde
  73 O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde
  1 P
- 24 R Racute Rcaron Rcedilla
+ 28 R Racute Rcaron Rcommaaccent
  29 T Tcaron Tcommaaccent uni021A
  80 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring
  1 V
@@ -76,7 +75,7 @@ KernClass2: 32 23 "'kern' Horizontal Kerning lookup 1 kerning class 1"
  1 b
  8 d dcaron
  1 f
- 28 g gbreve gcedilla gdotaccent
+ 32 g gbreve gcommaaccent gdotaccent
  14 k kcommaaccent
  28 l lacute lcaron lcommaaccent
  1 m
@@ -98,7 +97,7 @@ KernClass2: 32 23 "'kern' Horizontal Kerning lookup 1 kerning class 1"
  73 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde
  5 comma
  60 e eacute ecaron ecircumflex edieresis egrave emacron eogonek
- 28 g gbreve gcedilla gdotaccent
+ 32 g gbreve gcommaaccent gdotaccent
  73 o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron otilde
  6 period
  1 q
@@ -1301,7 +1300,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 220
-WinInfo: 210 15 12
+WinInfo: 120 24 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 119296 59648 39765 694784 -1048576 39765 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1395,8 +1394,27 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 S 1 0 0 1 276 396 2
+Refer: 121 180 N 1 0 0 1 5.78233 457 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1406,8 +1424,21 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 S 1 0 0 1 133 820 2
+Refer: 140 728 N 1 0 0 1 -64.8306 881 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1417,8 +1448,27 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 S 1 0 0 1 177 780 2
+Refer: 151 710 N 1 0 0 1 -27.0521 841 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1428,8 +1478,21 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 S 1 0 0 1 119 733 2
+Refer: 160 168 N 1 0 0 1 -84.8429 794 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1439,8 +1502,21 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -11 144 2
+Refer: 196 96 N 1 0 0 1 -13.9641 205 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1450,8 +1526,21 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 S 1 0 0 1 59 987 2
+Refer: 230 175 N 1 0 0 1 -93.5433 1048 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1483,8 +1572,21 @@ Width: 656
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 S 1 0 0 1 75 649 2
+Refer: 302 732 N 1 0 0 1 -108.321 710 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1559,8 +1661,27 @@ Width: 649
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 193 396 2
+Refer: 121 180 N 1 0 0 1 43.9653 457 2
 Refer: 13 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1570,8 +1691,21 @@ Width: 649
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 7 759 2
+Refer: 145 711 N 1 0 0 1 4.25878 820 2
 Refer: 13 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1592,8 +1726,21 @@ Width: 649
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 N 1 0 0 1 94 1585 2
+Refer: 164 775 N 1 0 0 1 73.5977 358 2
 Refer: 13 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1643,8 +1790,21 @@ Width: 653
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 S 1 0 0 1 4 759 2
+Refer: 145 711 N 1 0 0 1 1.21919 820 2
 Refer: 18 68 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1711,8 +1871,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 100 396 2
+Refer: 121 180 N 1 0 0 1 -48.9446 457 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1722,8 +1895,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -86 759 2
+Refer: 145 711 N 1 0 0 1 -88.6511 820 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1733,8 +1919,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -79 780 2
+Refer: 151 710 N 1 0 0 1 -81.7791 841 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1744,8 +1943,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -137 733 2
+Refer: 160 168 N 1 0 0 1 -139.57 794 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1755,8 +1967,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -243 144 2
+Refer: 196 96 N 1 0 0 1 -68.691 205 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1766,8 +1991,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -115 987 2
+Refer: 230 175 N 1 0 0 1 -148.27 1048 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1812,8 +2050,21 @@ Width: 457
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 -27 5 2
+Refer: 247 731 N 1 0 0 1 -0.21779 -19.1333 2
 Refer: 23 69 N 1 0 0 1 0 0 2
 EndChar
 
@@ -1966,28 +2217,67 @@ Width: 727
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 3 826 2
+Refer: 140 728 N 1 0 0 1 -0.293782 887 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: Gcedilla
-Encoding: -1 290 37
+StartChar: Gcommaaccent
+Encoding: -1 -1 37
 Width: 727
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 4
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 149 184 N 1 0 0 1 160 0 2
 Refer: 35 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Gcommaaccent
-Encoding: 243 -1 38
+Encoding: 243 290 38
 Width: 727
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 4
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 322 806 N 1 0 0 1 120 0 2
 Refer: 35 71 N 1 0 0 1 0 0 2
@@ -1999,8 +2289,21 @@ Width: 727
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 N 1 0 0 1 120 1591 2
+Refer: 164 775 N 1 0 0 1 99.9516 364 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2133,8 +2436,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 67 396 2
+Refer: 121 180 N 1 0 0 1 -81.8808 457 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2144,8 +2460,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 S 1 0 0 1 -84 820 2
+Refer: 140 728 N 1 0 0 1 -152.494 881 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2155,8 +2484,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -112 780 2
+Refer: 151 710 N 1 0 0 1 -114.715 841 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2166,19 +2508,45 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -170 733 2
+Refer: 160 168 N 1 0 0 1 -172.506 794 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: Idot
+StartChar: Idotaccent
 Encoding: 259 304 48
 Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 S 1 0 0 1 22 1585 2
+Refer: 164 775 N 1 0 0 1 -52.2484 358 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2188,8 +2556,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -99 144 2
+Refer: 196 96 N 1 0 0 1 -101.627 205 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2199,8 +2580,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -148 987 2
+Refer: 230 175 N 1 0 0 1 -181.206 1048 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2210,8 +2604,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 -55 19 2
+Refer: 247 731 N 1 0 0 1 -33.881 -4.13333 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2221,8 +2628,21 @@ Width: 432
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 S 1 0 0 1 -103 649 2
+Refer: 302 732 N 1 0 0 1 -195.984 710 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2262,8 +2682,21 @@ Width: 419
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -88 780 2
+Refer: 151 710 N 1 0 0 1 -91.4406 841 2
 Refer: 53 74 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2304,8 +2737,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 134 24 2
+Refer: 322 806 N 1 0 0 1 137.208 -37 2
 Refer: 55 75 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2344,19 +2790,45 @@ Width: 430
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 82 396 2
+Refer: 121 180 N 1 0 0 1 -66.817 457 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lcaron
 Encoding: 272 317 59
-Width: 506
+Width: 430
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 153 44 N 1 0 0 1 148 1400 2
+Refer: 153 44 N 1 0 0 1 487.379 1400 2
 Refer: 57 76 N 1 0 0 1 0 0 2
 EndChar
 
@@ -2366,8 +2838,21 @@ Width: 430
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 24 49 2
+Refer: 322 806 N 1 0 0 1 27.1788 -12 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2377,8 +2862,21 @@ Width: 430
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 263 183 S 1 0 0 1 272 72 2
+Refer: 263 183 N 1 0 0 1 59.3635 72 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2494,8 +2992,21 @@ Width: 737
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 249 407 2
+Refer: 121 180 N 1 0 0 1 100.447 468 2
 Refer: 64 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2505,8 +3016,21 @@ Width: 737
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 64 770 2
+Refer: 145 711 N 1 0 0 1 60.7407 831 2
 Refer: 64 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2516,8 +3040,21 @@ Width: 737
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 192 42 2
+Refer: 322 806 N 1 0 0 1 195.315 -19 2
 Refer: 64 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2527,8 +3064,21 @@ Width: 737
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -11 660 2
+Refer: 302 732 N 1 0 0 1 -13.6563 721 2
 Refer: 64 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2615,8 +3165,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 189 396 2
+Refer: 121 180 N 1 0 0 1 40.8543 457 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2626,8 +3189,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 -27 820 2
+Refer: 140 728 N 1 0 0 1 -29.7586 881 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2637,8 +3213,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 11 780 2
+Refer: 151 710 N 1 0 0 1 8.01985 841 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2648,8 +3237,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -47 733 2
+Refer: 160 168 N 1 0 0 1 -49.7709 794 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2659,8 +3261,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -154 144 2
+Refer: 196 96 N 1 0 0 1 21.1079 205 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2670,8 +3285,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 204 733 N 1 0 0 1 -17 1687 2
+Refer: 204 733 N 1 0 0 1 -242.426 1748 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2681,8 +3309,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -56 987 2
+Refer: 230 175 N 1 0 0 1 -58.4713 1048 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2732,8 +3373,21 @@ Width: 650
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -70 649 2
+Refer: 302 732 N 1 0 0 1 -73.2491 710 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2838,8 +3492,21 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 135 396 2
+Refer: 121 180 N 1 0 0 1 -13.3962 457 2
 Refer: 82 82 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2849,12 +3516,25 @@ Width: 548
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -50 759 2
+Refer: 145 711 N 1 0 0 1 -53.1026 820 2
 Refer: 82 82 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: Rcedilla
+StartChar: Rcommaaccent
 Encoding: -1 342 85
 Width: 548
 VWidth: 0
@@ -2906,8 +3586,21 @@ Width: 523
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 102 396 2
+Refer: 121 180 N 1 0 0 1 -46.347 457 2
 Refer: 87 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2917,8 +3610,21 @@ Width: 523
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -83 759 2
+Refer: 145 711 N 1 0 0 1 -86.0535 820 2
 Refer: 87 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2928,8 +3634,21 @@ Width: 523
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 149 184 S 1 0 0 1 43 -46 2
+Refer: 149 184 N 1 0 0 1 166.171 -46.2667 2
 Refer: 87 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -2990,8 +3709,21 @@ Width: 492
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 S 1 0 0 1 -35 759 2
+Refer: 145 711 N 1 0 0 1 -38.0897 820 2
 Refer: 92 84 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3001,8 +3733,21 @@ Width: 492
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 149 184 S 1 0 0 1 168 -15 2
+Refer: 149 184 N 1 0 0 1 212.633 -15.2667 2
 Refer: 92 84 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3071,8 +3816,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 228 396 2
+Refer: 121 180 N 1 0 0 1 78.7809 457 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3082,8 +3840,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 11 820 2
+Refer: 140 728 N 1 0 0 1 8.16795 881 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3093,8 +3864,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 49 780 2
+Refer: 151 710 N 1 0 0 1 45.9464 841 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3104,8 +3888,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -9 733 2
+Refer: 160 168 N 1 0 0 1 -11.8443 794 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3115,8 +3912,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -115 144 2
+Refer: 196 96 N 1 0 0 1 59.0345 205 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3126,8 +3936,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 204 733 S 1 0 0 1 -12 1687 2
+Refer: 204 733 N 1 0 0 1 -204.499 1748 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3137,8 +3960,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 13 987 2
+Refer: 230 175 N 1 0 0 1 -20.5447 1048 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3148,8 +3984,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 183 -5 2
+Refer: 247 731 N 1 0 0 1 128.719 -44.1333 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3159,8 +4008,21 @@ Width: 699
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 281 730 N 1 0 0 1 -46.7925 1585 2
+Refer: 281 730 N 1 0 0 1 -49.7488 1646 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3276,8 +4138,21 @@ Width: 453
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 131 396 2
+Refer: 121 180 N 1 0 0 1 -17.187 457 2
 Refer: 110 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3287,8 +4162,21 @@ Width: 453
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 S 1 0 0 1 -68 733 2
+Refer: 160 168 N 1 0 0 1 -107.812 794 2
 Refer: 110 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3326,8 +4214,21 @@ Width: 429
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 S 1 0 0 1 119 396 2
+Refer: 121 180 N 1 0 0 1 -64.2532 457 2
 Refer: 113 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3337,8 +4238,21 @@ Width: 429
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 S 1 0 0 1 -17 759 2
+Refer: 145 711 N 1 0 0 1 -103.96 820 2
 Refer: 113 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3348,8 +4262,21 @@ Width: 429
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 164 775 S 1 0 0 1 46 297 2
+Refer: 164 775 N 1 0 0 1 -34.6208 358 2
 Refer: 113 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3391,8 +4318,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 158 189 2
+Refer: 121 180 N 1 0 0 1 9.73045 250 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3402,8 +4342,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 S 1 0 0 1 95 613 2
+Refer: 140 728 N 1 0 0 1 -60.8825 674 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3413,8 +4366,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 S 1 0 0 1 115 573 2
+Refer: 151 710 N 1 0 0 1 -23.104 634 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3444,8 +4410,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 S 1 0 0 1 60 526 2
+Refer: 160 168 N 1 0 0 1 -80.8948 587 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3498,8 +4477,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -7 -63 2
+Refer: 196 96 N 1 0 0 1 -10.016 -2 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3509,8 +4501,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 S 1 0 0 1 33 780 2
+Refer: 230 175 N 1 0 0 1 -89.5952 841 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3681,8 +4686,21 @@ Width: 621
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 S 1 0 0 1 19 442 2
+Refer: 302 732 N 1 0 0 1 -104.373 503 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3976,8 +4994,27 @@ Width: 505
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 143 189 2
+Refer: 121 180 N 1 0 0 1 -5.82386 250 2
 Refer: 143 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4008,8 +5045,21 @@ Width: 505
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -43 552 2
+Refer: 145 711 N 1 0 0 1 -45.5303 613 2
 Refer: 143 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4019,8 +5069,21 @@ Width: 505
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 149 184 N 1 0 0 1 196 -30 2
+Refer: 149 184 N 1 0 0 1 195.887 -30.2667 2
 Refer: 143 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4030,8 +5093,21 @@ Width: 505
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 N 1 0 0 1 44 1378 2
+Refer: 164 775 N 1 0 0 1 23.8086 151 2
 Refer: 143 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4111,15 +5187,270 @@ Width: 516
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 2
+ 273 1193 l 1
+ 353 917 l 2
+ 355.679103526 907.538867255 366.713526675 902.519988467 379.408893055 902.519988467 c 0
+ 400.323100648 902.519988467 425.744926613 916.140676887 425.744926613 945.960047517 c 0
+ 425.744926613 951.424171769 424.891333449 957.432202049 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 90.1472563837 969.172078781 88.8784626531 962.932393475 88.8784626531 957.283697733 c 0
+ 88.8784626531 930.58254014 117.228578538 917.086541274 140.642051058 917.086541274 c 0
+ 154.338553016 917.086541274 166.345705807 921.704953573 170 931 c 2
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 2
+ 273 1193 l 1
+ 353 917 l 2
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 158.77734375 902.454101562 170 931 c 2
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 4
+ 273 1193 l 1
+ 353 917 l 4
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 160.188476562 901.938476562 170 931 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 3
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 4
+ 184.483541296 973.89994082 263 1164 273 1193 c 5
+ 289 1125 334 984.099609375 353 917 c 4
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 160.188476562 901.938476562 170 931 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 4
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 4
+ 183.138042474 974.330932724 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 161.188476562 901.938476562 170 931 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 5
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 931 m 4
+ 189 972.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 161.188476562 911.938476562 170 931 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 6
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+170 921 m 4
+ 189 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 161.188476562 901.938476562 170 921 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 7
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+160 921 m 4
+ 179 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 151.188129786 901.938714544 160 921 c 4
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 8
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+160 921 m 0
+ 179 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1329 290 1329 c 4
+ 215 1329 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 151.188129786 901.938714544 160 921 c 0
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 9
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+160 921 m 0
+ 179 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 441.478324212 899.832626469 423 964 c 0
+ 376.449424556 1125.65038173 342 1339 290 1339 c 4
+ 215 1339 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 151.188129786 901.938714544 160 921 c 0
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 10
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+160 921 m 0
+ 179 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 440.478324212 899.832626469 423 964 c 4
+ 378.790007645 1126.30612608 342 1339 290 1339 c 0
+ 215 1339 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 151.188129786 901.938714544 160 921 c 0
+EndSplineSet
+EndUndoOperation
+UndoOperation
+Index: 11
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Width: 516
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+160 921 m 0
+ 179 962.099609375 263 1164 273 1193 c 1
+ 289 1125 334 984.099609375 353 917 c 0
+ 360.901367188 889.096679688 439.478324212 899.832626469 423 964 c 4
+ 381.158499746 1126.93278014 342 1339 290 1339 c 0
+ 215 1339 200 1232.09997559 93 976 c 0
+ 68.7740600534 918.016237113 151.188129786 901.938714544 160 921 c 0
+EndSplineSet
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-137 911 m 0
- 186 911 263 1164 273 1193 c 1
- 289 1125 293 907 363 907 c 0
- 392 907 423 930 423 964 c 0
- 423 1060 342 1359 290 1359 c 0
- 215 1359 93 1045 93 976 c 0
- 93 938 116 911 137 911 c 0
+170 931 m 2
+ 273 1193 l 1
+ 353 917 l 2
+ 355.679103526 907.538867255 366.713526675 902.519988467 379.408893055 902.519988467 c 0
+ 400.323100648 902.519988467 425.744926613 916.140676887 425.744926613 945.960047517 c 0
+ 425.744926613 951.424171769 424.891333449 957.432202049 423 964 c 0
+ 376.449424556 1125.65038173 342 1319 290 1319 c 0
+ 215 1319 200 1232.09997559 93 976 c 0
+ 90.1472563837 969.172078781 88.8784626531 962.932393475 88.8784626531 957.283697733 c 0
+ 88.8784626531 930.58254014 117.228578538 917.086541274 140.642051058 917.086541274 c 0
+ 154.338553016 917.086541274 166.345705807 921.704953573 170 931 c 2
 EndSplineSet
 EndChar
 
@@ -4305,8 +5636,21 @@ Width: 610
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 4 504 2
+Refer: 153 44 N 1 0 0 1 679.486 1193 2
 Refer: 157 100 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4527,7 +5871,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dslash
+StartChar: dcroat
 Encoding: -1 273 167
 Width: 1707
 VWidth: 0
@@ -4578,8 +5922,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 123 189 2
+Refer: 121 180 N 1 0 0 1 -25.3914 250 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4589,8 +5946,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -62 552 2
+Refer: 145 711 N 1 0 0 1 -65.0979 613 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4600,8 +5970,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -55 573 2
+Refer: 151 710 N 1 0 0 1 -58.2259 634 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4611,9 +5994,22 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 S 1 0 0 1 -113 526 2
-Refer: 168 101 S 1 0 0 1 0 0 3
+Refer: 160 168 N 1 0 0 1 -116.017 587 2
+Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
@@ -4622,8 +6018,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -220 -63 2
+Refer: 196 96 N 1 0 0 1 -45.1378 -2 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4699,8 +6108,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -92 780 2
+Refer: 230 175 N 1 0 0 1 -124.717 841 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4782,8 +6204,21 @@ Width: 455
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 -25 -13 2
+Refer: 247 731 N 1 0 0 1 14.0303 -34.1333 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5105,12 +6540,25 @@ Width: 638
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 -26 613 2
+Refer: 140 728 N 1 0 0 1 -28.8395 674 2
 Refer: 191 103 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: gcedilla
+StartChar: gcommaaccent
 Encoding: 244 291 193
 Width: 638
 VWidth: 0
@@ -5127,8 +6575,21 @@ Width: 638
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 N 1 0 0 1 92 1378 2
+Refer: 164 775 N 1 0 0 1 71.4058 151 2
 Refer: 191 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5485,8 +6946,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 125 189 2
+Refer: 121 180 N 1 0 0 1 -23.7832 250 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5496,8 +6970,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 -91 613 2
+Refer: 140 728 N 1 0 0 1 -94.3962 674 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5507,8 +6994,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -54 573 2
+Refer: 151 710 N 1 0 0 1 -56.6177 634 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5518,8 +7018,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -111 526 2
+Refer: 160 168 N 1 0 0 1 -114.408 587 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5529,9 +7042,22 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 S 1 0 0 1 -41 -63 2
-Refer: 165 305 S 1 0 0 1 0 0 3
+Refer: 196 96 N 1 0 0 1 -43.5297 -2 2
+Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ij
@@ -5551,8 +7077,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -90 780 2
+Refer: 230 175 N 1 0 0 1 -123.109 841 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5562,8 +7101,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 -19 29 2
+Refer: 247 731 N 1 0 0 1 37.4569 8.86667 2
 Refer: 206 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5573,8 +7125,21 @@ Width: 499
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -135 442 2
+Refer: 302 732 N 1 0 0 1 -137.887 503 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5610,8 +7175,21 @@ Width: 520
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 15 573 2
+Refer: 151 710 N 1 0 0 1 -53.6781 634 2
 Refer: 166 567 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5652,8 +7230,21 @@ Width: 637
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 130 37 2
+Refer: 322 806 N 1 0 0 1 133.163 -24 2
 Refer: 218 107 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5702,19 +7293,45 @@ Width: 467
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 101 189 2
+Refer: 121 180 N 1 0 0 1 -47.4392 250 2
 Refer: 221 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lcaron
 Encoding: 273 318 223
-Width: 535
+Width: 467
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 153 44 N 1 0 0 1 170 1193 2
+Refer: 153 44 N 1 0 0 1 535.247 1193 2
 Refer: 221 108 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5724,8 +7341,21 @@ Width: 467
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 34 39 2
+Refer: 322 806 N 1 0 0 1 37.0092 -22 2
 Refer: 221 108 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5735,6 +7365,19 @@ Width: 762
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 263 183 N 1 0 0 1 467 0 2
 Refer: 221 108 N 1 0 0 1 0 0 2
@@ -5893,7 +7536,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B5
+StartChar: mu
 Encoding: 138 181 232
 AltUni2: 0003bc.ffffffff.0
 Width: 641
@@ -5993,8 +7636,21 @@ Width: 827
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 289 189 2
+Refer: 121 180 N 1 0 0 1 140.144 250 2
 Refer: 234 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6004,8 +7660,21 @@ Width: 827
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 103 552 2
+Refer: 145 711 N 1 0 0 1 100.438 613 2
 Refer: 234 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6015,8 +7684,21 @@ Width: 827
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 220 66 2
+Refer: 322 806 N 1 0 0 1 223.284 5 2
 Refer: 234 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6053,8 +7735,21 @@ Width: 827
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 29 442 2
+Refer: 302 732 N 1 0 0 1 26.0407 503 2
 Refer: 234 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6155,8 +7850,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 198 189 2
+Refer: 121 180 N 1 0 0 1 49.056 250 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6166,8 +7874,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 -19 613 2
+Refer: 140 728 N 1 0 0 1 -21.5569 674 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6177,8 +7898,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 19 573 2
+Refer: 151 710 N 1 0 0 1 16.2215 634 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6188,8 +7922,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -39 526 2
+Refer: 160 168 N 1 0 0 1 -41.5692 587 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6266,8 +8013,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -145 -63 2
+Refer: 196 96 N 1 0 0 1 29.3096 -2 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6277,8 +8037,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 204 733 N 1 0 0 1 -9 1480 2
+Refer: 204 733 N 1 0 0 1 -234.224 1541 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6288,8 +8061,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -48 780 2
+Refer: 230 175 N 1 0 0 1 -50.2696 841 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6407,8 +8193,21 @@ Width: 651
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -62 442 2
+Refer: 302 732 N 1 0 0 1 -65.0474 503 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6947,8 +8746,21 @@ Width: 504
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -55 552 2
+Refer: 145 711 N 1 0 0 1 -57.6392 613 2
 Refer: 277 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6958,8 +8770,21 @@ Width: 504
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 322 806 N 1 0 0 1 64 37 2
+Refer: 322 806 N 1 0 0 1 66.6126 -24 2
 Refer: 277 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7069,8 +8894,21 @@ Width: 445
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 77 192 2
+Refer: 121 180 N 1 0 0 1 -71.5726 253 2
 Refer: 282 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7080,8 +8918,21 @@ Width: 445
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -108 555 2
+Refer: 145 711 N 1 0 0 1 -111.279 616 2
 Refer: 282 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7091,8 +8942,21 @@ Width: 445
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 149 184 S 1 0 0 1 16 -29 2
+Refer: 149 184 N 1 0 0 1 130.235 -29.2667 2
 Refer: 282 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7321,8 +9185,21 @@ Width: 493
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 N 1 0 0 1 -35 579 2
+Refer: 153 44 N 1 0 0 1 619.652 1193 2
 Refer: 294 116 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7332,8 +9209,21 @@ Width: 493
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 149 184 S 1 0 0 1 180 5 2
+Refer: 149 184 N 1 0 0 1 203.722 4.73333 2
 Refer: 294 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7565,8 +9455,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 213 200 2
+Refer: 121 180 N 1 0 0 1 64.7376 261 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7576,8 +9479,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 140 728 N 1 0 0 1 -3 624 2
+Refer: 140 728 N 1 0 0 1 -5.87539 685 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7587,8 +9503,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 35 584 2
+Refer: 151 710 N 1 0 0 1 31.9031 645 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7598,8 +9527,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -23 537 2
+Refer: 160 168 N 1 0 0 1 -25.8877 598 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7609,8 +9551,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 196 96 N 1 0 0 1 -130 -52 2
+Refer: 196 96 N 1 0 0 1 44.9912 9 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7620,8 +9575,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 204 733 S 1 0 0 1 -27 1491 2
+Refer: 204 733 N 1 0 0 1 -218.543 1552 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7631,8 +9599,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 230 175 N 1 0 0 1 -2 791 2
+Refer: 230 175 N 1 0 0 1 -34.588 852 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7832,8 +9813,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 247 731 S 1 0 0 1 -3 -17 2
+Refer: 247 731 N 1 0 0 1 104.886 -38.1333 2
 Refer: 306 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -7843,8 +9837,21 @@ Width: 641
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 281 730 N 1 0 0 1 -60.8358 1389 2
+Refer: 281 730 N 1 0 0 1 -63.7921 1450 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7971,8 +9978,21 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 161 189 2
+Refer: 121 180 N 1 0 0 1 12.6103 250 2
 Refer: 328 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7982,8 +10002,21 @@ Width: 513
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 160 168 N 1 0 0 1 -75 526 2
+Refer: 160 168 N 1 0 0 1 -78.015 587 2
 Refer: 328 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8078,8 +10111,21 @@ Width: 493
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 S 1 0 0 1 186 189 2
+Refer: 121 180 N 1 0 0 1 -24.6327 250 2
 Refer: 332 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8089,8 +10135,21 @@ Width: 493
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 145 711 S 1 0 0 1 29 552 2
+Refer: 145 711 N 1 0 0 1 -64.3391 613 2
 Refer: 332 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8100,8 +10159,21 @@ Width: 493
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 S 1 0 0 1 113 1378 2
+Refer: 164 775 N 1 0 0 1 4.99975 151 2
 Refer: 332 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8134,8 +10206,21 @@ Width: 457
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 S 1 0 0 1 1 1585 2
+Refer: 164 775 N 1 0 0 1 -19.3122 358 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8145,8 +10230,21 @@ Width: 455
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 163 729 N 1 0 0 1 25 1378 2
+Refer: 164 775 N 1 0 0 1 4.241 151 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8156,8 +10254,21 @@ Width: 445
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -101 576 2
+Refer: 151 710 N 1 0 0 1 -104.407 637 2
 Refer: 282 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8167,8 +10278,21 @@ Width: 699
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -32 649 2
+Refer: 302 732 N 1 0 0 1 -35.3225 710 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8178,8 +10302,21 @@ Width: 641
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 732 N 1 0 0 1 -46 453 2
+Refer: 302 732 N 1 0 0 1 -49.3658 514 2
 Refer: 306 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8189,8 +10326,21 @@ Width: 504
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 N 1 0 0 1 131 189 2
+Refer: 121 180 N 1 0 0 1 -17.9327 250 2
 Refer: 277 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8200,8 +10350,27 @@ Width: 638
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 12 573 2
+Refer: 151 710 N 1 0 0 1 10.2756 638.48 2
 Refer: 191 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8211,8 +10380,27 @@ Width: 727
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 40 786 2
+Refer: 151 710 N 1 0 0 1 38.8214 851.48 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8222,8 +10410,21 @@ Width: 560
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -14 780 2
+Refer: 151 710 N 1 0 0 1 -17.1232 841 2
 Refer: 40 72 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8233,8 +10434,21 @@ Width: 571
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -25 573 2
+Refer: 151 710 N 1 0 0 1 -27.4716 634 2
 Refer: 202 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8244,8 +10458,27 @@ Width: 649
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 14 780 2
+Refer: 151 710 N 1 0 0 1 11.1308 841 2
 Refer: 13 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8255,8 +10488,27 @@ Width: 505
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 151 710 N 1 0 0 1 -36 573 2
+Refer: 151 710 N 1 0 0 1 -38.6583 634 2
 Refer: 143 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8266,8 +10518,21 @@ Width: 727
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 S 1 0 0 1 241 402 2
+Refer: 121 180 N 1 0 0 1 70.3192 463 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8277,8 +10542,21 @@ Width: 638
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 121 180 S 1 0 0 1 204 189 2
+Refer: 121 180 N 1 0 0 1 41.7734 250 2
 Refer: 191 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8288,8 +10566,21 @@ Width: 656
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -263 1695 2
+Refer: 320 783 N 1 0 0 1 -268.892 1756 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8299,8 +10590,21 @@ Width: 621
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -259 1488 2
+Refer: 320 783 N 1 0 0 1 -264.944 1549 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8310,8 +10614,21 @@ Width: 656
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 S 1 0 0 1 130 820 2
+Refer: 321 785 N 1 0 0 1 -55.7525 881 2
 Refer: 1 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8321,8 +10638,21 @@ Width: 621
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 S 1 0 0 1 83 613 2
+Refer: 321 785 N 1 0 0 1 -51.8044 674 2
 Refer: 117 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8332,8 +10662,21 @@ Width: 457
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -317 1695 2
+Refer: 320 783 N 1 0 0 1 -323.619 1756 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8343,8 +10686,21 @@ Width: 455
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -294 1488 2
+Refer: 320 783 N 1 0 0 1 -300.066 1549 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8354,8 +10710,21 @@ Width: 457
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -108 820 2
+Refer: 321 785 N 1 0 0 1 -110.479 881 2
 Refer: 23 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8365,8 +10734,21 @@ Width: 455
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -84 613 2
+Refer: 321 785 N 1 0 0 1 -86.9262 674 2
 Refer: 168 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8376,8 +10758,21 @@ Width: 432
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -354 1695 2
+Refer: 320 783 N 1 0 0 1 -356.555 1756 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8387,8 +10782,21 @@ Width: 499
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -296 1488 2
+Refer: 320 783 N 1 0 0 1 -298.458 1549 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8398,8 +10806,21 @@ Width: 432
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -140 820 2
+Refer: 321 785 N 1 0 0 1 -143.416 881 2
 Refer: 42 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8409,8 +10830,21 @@ Width: 499
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -82 613 2
+Refer: 321 785 N 1 0 0 1 -85.318 674 2
 Refer: 165 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8420,8 +10854,21 @@ Width: 650
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -228 1695 2
+Refer: 320 783 N 1 0 0 1 -233.82 1756 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8431,8 +10878,21 @@ Width: 651
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -219 1488 2
+Refer: 320 783 N 1 0 0 1 -225.618 1549 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8442,8 +10902,21 @@ Width: 650
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -18 820 2
+Refer: 321 785 N 1 0 0 1 -20.6805 881 2
 Refer: 69 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8453,8 +10926,21 @@ Width: 651
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -10 613 2
+Refer: 321 785 N 1 0 0 1 -12.4788 674 2
 Refer: 241 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8464,8 +10950,21 @@ Width: 548
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -282 1695 2
+Refer: 320 783 N 1 0 0 1 -288.071 1756 2
 Refer: 82 82 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8475,8 +10974,21 @@ Width: 504
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -286 1488 2
+Refer: 320 783 N 1 0 0 1 -292.607 1549 2
 Refer: 277 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8486,8 +10998,21 @@ Width: 548
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -72 820 2
+Refer: 321 785 N 1 0 0 1 -74.931 881 2
 Refer: 82 82 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8497,8 +11022,21 @@ Width: 504
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 321 785 N 1 0 0 1 -77 613 2
+Refer: 321 785 N 1 0 0 1 -79.4675 674 2
 Refer: 277 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8508,8 +11046,21 @@ Width: 699
 VWidth: 0
 Flags: H
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 320 783 N 1 0 0 1 -189 1695 2
+Refer: 320 783 N 1 0 0 1 -195.893 1756 2
 Refer: 97 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8711,7 +11262,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni01c7
+StartChar: uni01C7
 Encoding: 424 455 384
 Width: 849
 VWidth: 0
@@ -8722,7 +11273,7 @@ Refer: 53 74 N 1 0 0 1 430 0 2
 Refer: 57 76 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni01c8
+StartChar: uni01C8
 Encoding: 425 456 385
 Width: 950
 VWidth: 0
@@ -8733,7 +11284,7 @@ Refer: 216 106 N 1 0 0 1 430 0 2
 Refer: 57 76 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni01ca
+StartChar: uni01CA
 Encoding: 426 458 386
 Width: 1156
 VWidth: 0
@@ -8744,7 +11295,7 @@ Refer: 53 74 N 1 0 0 1 737 0 2
 Refer: 64 78 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni01cb
+StartChar: uni01CB
 Encoding: 427 459 387
 Width: 1257
 VWidth: 0
