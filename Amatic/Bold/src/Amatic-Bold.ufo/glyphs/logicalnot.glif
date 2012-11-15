@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
   <advance width="467"/>
-  <unicode hex="00ac"/>
+  <unicode hex="00AC"/>
   <outline>
     <contour>
       <point x="30" y="711" type="curve" smooth="yes"/>
@@ -22,10 +22,10 @@
       <point x="782" y="790" type="curve" smooth="yes"/>
       <point x="782" y="766"/>
       <point x="775" y="741"/>
-      <point x="763" y="720" type="curve" smooth="no"/>
+      <point x="763" y="720" type="curve"/>
       <point x="763" y="658"/>
       <point x="768" y="596"/>
-      <point x="787" y="537" type="curve" smooth="no"/>
+      <point x="787" y="537" type="curve"/>
       <point x="783" y="509"/>
       <point x="765" y="475"/>
       <point x="733" y="475" type="curve" smooth="yes"/>
@@ -37,7 +37,7 @@
       <point x="672" y="659" type="curve" smooth="yes"/>
       <point x="672" y="682"/>
       <point x="671" y="705"/>
-      <point x="667" y="727" type="curve" smooth="no"/>
+      <point x="667" y="727" type="curve"/>
       <point x="642" y="728"/>
       <point x="616" y="733"/>
       <point x="591" y="733" type="curve" smooth="yes"/>

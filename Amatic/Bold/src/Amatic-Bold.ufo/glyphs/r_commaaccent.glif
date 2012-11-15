@@ -2,7 +2,7 @@
 <glyph name="Rcommaaccent" format="1">
   <advance width="548"/>
   <outline>
-    <component base="commaaccent" xOffset="50"/>
     <component base="R"/>
+    <component base="commaaccent" xOffset="50"/>
   </outline>
 </glyph>

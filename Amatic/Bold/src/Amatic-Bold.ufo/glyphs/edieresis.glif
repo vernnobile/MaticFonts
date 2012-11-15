@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
   <advance width="455"/>
-  <unicode hex="00eb"/>
+  <unicode hex="00EB"/>
   <outline>
-    <component base="dieresis" xOffset="-113" yOffset="526"/>
+    <component base="dieresis" xOffset="-116.017" yOffset="587"/>
     <component base="e"/>
   </outline>
 </glyph>

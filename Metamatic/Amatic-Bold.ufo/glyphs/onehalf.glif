@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="989"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="two"/>
+    <component base="slash" xOffset="559"/>
+    <component base="one" xOffset="537"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

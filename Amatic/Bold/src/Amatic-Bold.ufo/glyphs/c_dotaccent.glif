@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="1">
   <advance width="649"/>
-  <unicode hex="010a"/>
+  <unicode hex="010A"/>
   <outline>
-    <component base="dotaccent" xOffset="94" yOffset="1585"/>
     <component base="C"/>
+    <component base="uni0307" xOffset="73.5977" yOffset="358"/>
   </outline>
 </glyph>

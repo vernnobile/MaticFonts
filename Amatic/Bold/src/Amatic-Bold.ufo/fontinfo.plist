@@ -7,7 +7,7 @@
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>copyright</key>
-	<string>vernon adams 2011</string>
+	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
 	<key>trademark</key>
 	<string>vernon adams</string>
 	<key>unitsPerEm</key>
@@ -26,12 +26,24 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2012/04/03 06:33:51</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 2.000</string>
+	<string>Version 2.001</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernon adams : Amatic-Bold : 2011-12</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Amatic Bold</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>3</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -40,25 +52,6 @@
 	<string>newt</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2Type</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>

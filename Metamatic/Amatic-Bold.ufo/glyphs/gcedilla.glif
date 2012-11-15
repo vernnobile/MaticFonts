@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcedilla" format="1">
+  <advance width="638"/>
+  <unicode hex="0123"/>
+  <outline>
+    <component base="cedilla" xOffset="195"/>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uring" format="1">
   <advance width="699"/>
-  <unicode hex="016e"/>
+  <unicode hex="016E"/>
   <outline>
-    <component base="ring" xOffset="-46.7925" yOffset="1585"/>
     <component base="U"/>
+    <component base="ring" xOffset="-49.7488" yOffset="1646"/>
   </outline>
 </glyph>

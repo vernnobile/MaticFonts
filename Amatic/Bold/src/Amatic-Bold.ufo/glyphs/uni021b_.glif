@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021B" format="1">
   <advance width="493"/>
-  <unicode hex="021b"/>
+  <unicode hex="021B"/>
   <outline>
-    <component base="uni0326" xOffset="83" yOffset="78"/>
     <component base="t"/>
+    <component base="uni0326" xOffset="83" yOffset="78"/>
   </outline>
 </glyph>

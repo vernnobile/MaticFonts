@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
   <advance width="512"/>
-  <unicode hex="002f"/>
+  <unicode hex="002F"/>
   <outline>
     <contour>
       <point x="423" y="1553" type="curve" smooth="yes"/>
@@ -16,7 +16,7 @@
       <point x="55" y="-54" type="curve" smooth="yes"/>
       <point x="63" y="-54"/>
       <point x="72" y="-46"/>
-      <point x="75" y="-31" type="curve" smooth="no"/>
+      <point x="75" y="-31" type="curve"/>
       <point x="173" y="181"/>
       <point x="443" y="1324"/>
       <point x="478" y="1503" type="curve" smooth="yes"/>
