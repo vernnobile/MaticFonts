@@ -4,32 +4,65 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="79.5" y="395" type="curve" smooth="yes"/>
-      <point x="79.5" y="281"/>
-      <point x="121.5" y="102"/>
-      <point x="312.5" y="102" type="curve" smooth="yes"/>
-      <point x="557.5" y="102"/>
-      <point x="605.5" y="313"/>
-      <point x="605.5" y="397" type="curve" smooth="yes"/>
-      <point x="605.5" y="485"/>
-      <point x="548.5" y="634"/>
-      <point x="311.5" y="634" type="curve" smooth="yes"/>
-      <point x="170.5" y="634"/>
-      <point x="79.5" y="531"/>
+      <point x="80" y="395" type="curve" smooth="yes"/>
+      <point x="80" y="531"/>
+      <point x="171" y="634"/>
+      <point x="312" y="634" type="curve" smooth="yes"/>
+      <point x="549" y="634"/>
+      <point x="606" y="485"/>
+      <point x="606" y="397" type="curve" smooth="yes"/>
+      <point x="606" y="313"/>
+      <point x="557" y="102"/>
+      <point x="312" y="102" type="curve" smooth="yes"/>
+      <point x="121" y="102"/>
+      <point x="80" y="281"/>
     </contour>
     <contour>
-      <point x="321.5" y="565" type="curve" smooth="yes"/>
-      <point x="495.5" y="565"/>
-      <point x="537.5" y="456"/>
-      <point x="537.5" y="393" type="curve" smooth="yes"/>
-      <point x="537.5" y="332"/>
-      <point x="502.5" y="179"/>
-      <point x="320.5" y="179" type="curve" smooth="yes"/>
-      <point x="230.5" y="179"/>
-      <point x="156.5" y="271"/>
-      <point x="156.5" y="329" type="curve" smooth="yes"/>
-      <point x="156.5" y="437"/>
-      <point x="191.5" y="565"/>
+      <point x="322" y="565" type="curve" smooth="yes"/>
+      <point x="192" y="565"/>
+      <point x="156" y="437"/>
+      <point x="156" y="329" type="curve" smooth="yes"/>
+      <point x="156" y="271"/>
+      <point x="230" y="179"/>
+      <point x="320" y="179" type="curve" smooth="yes"/>
+      <point x="502" y="179"/>
+      <point x="538" y="332"/>
+      <point x="538" y="393" type="curve" smooth="yes"/>
+      <point x="538" y="456"/>
+      <point x="496" y="565"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>102</integer>
+	    <key>width</key>	    <integer>77</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>565</integer>
+	    <key>width</key>	    <integer>69</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>80</integer>
+	    <key>width</key>
+	    <integer>76</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>538</integer>
+	    <key>width</key>
+	    <integer>68</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
