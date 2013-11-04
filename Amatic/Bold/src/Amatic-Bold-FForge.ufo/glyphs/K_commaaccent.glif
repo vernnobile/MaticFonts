@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="864"/>
+  <unicode hex="0136"/>
+  <outline>
+    <component base="K"/>
+    <component base="uni0326" xOffset="51" yOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-546</integer>
+	    <key>width</key>	    <integer>376</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>174</integer>
+	    <key>width</key>
+	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>201</integer>
+	    <key>width</key>
+	    <integer>90</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>305</integer>
+	    <key>width</key>
+	    <integer>241</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>611</integer>
+	    <key>width</key>
+	    <integer>113</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

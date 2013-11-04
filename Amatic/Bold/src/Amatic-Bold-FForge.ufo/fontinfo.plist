@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Amatic</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>copyright</key>
+	<string>Font Data Copyright (c) 2011-13 by vernon adams</string>
+	<key>trademark</key>
+	<string>vernon adams</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1357</integer>
+	<key>capHeight</key>
+	<integer>1549</integer>
+	<key>ascender</key>
+	<integer>2048</integer>
+	<key>descender</key>
+	<integer>-53</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/11/04 18:38:16</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2.001</string>
+	<key>openTypeNameUniqueID</key>
+	<string>vernon adams : Amatic-Bold : 2011-12</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Amatic Bold</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>3</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2239</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-552</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2239</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>552</integer>
+	<key>postscriptFontName</key>
+	<string>Amatic-Bold</string>
+	<key>postscriptFullName</key>
+	<string>Amatic Bold</string>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-204</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-57</integer>
+		<integer>0</integer>
+		<integer>1353</integer>
+		<integer>1383</integer>
+		<integer>1357</integer>
+		<integer>1381</integer>
+		<integer>1549</integer>
+		<integer>1585</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer></integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>20</integer>
+		<integer>72</integer>
+		<integer>87</integer>
+		<integer>94</integer>
+		<integer>99</integer>
+		<integer>104</integer>
+		<integer>111</integer>
+		<integer>117</integer>
+		<integer>122</integer>
+		<integer>126</integer>
+		<integer>142</integer>
+		<integer>152</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>92</integer>
+		<integer>100</integer>
+		<integer>106</integer>
+		<integer>112</integer>
+		<integer>118</integer>
+		<integer>122</integer>
+		<integer>131</integer>
+	</array>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptForceBold</key>
+	<true/>
+    </dict>
+</plist>

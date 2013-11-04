@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="1">
+  <advance width="720"/>
+  <unicode hex="0157"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni0326" xOffset="21" yOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-533</integer>
+	    <key>width</key>	    <integer>376</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>4</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1289</integer>
+	    <key>width</key>	    <integer>76</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>182</integer>
+	    <key>width</key>
+	    <integer>104</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>217</integer>
+	    <key>width</key>
+	    <integer>66</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>275</integer>
+	    <key>width</key>
+	    <integer>241</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>401</integer>
+	    <key>width</key>
+	    <integer>102</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
