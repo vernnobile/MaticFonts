@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="1">
+  <advance width="660"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <component base="I"/>
+    <component base="grave" xOffset="-193" yOffset="145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>10</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1484</integer>
+	    <key>width</key>	    <integer>64</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1693</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1763</integer>
+	    <key>width</key>	    <integer>86</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>34</integer>
+	    <key>width</key>
+	    <integer>334</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>259</integer>
+	    <key>width</key>
+	    <integer>47</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>289</integer>
+	    <key>width</key>
+	    <integer>68</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

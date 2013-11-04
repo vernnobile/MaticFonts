@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="820"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <component base="dieresis" xOffset="-80" yOffset="527"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-39</integer>
+	    <key>width</key>	    <integer>59</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1294</integer>
+	    <key>width</key>	    <integer>82</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1498</integer>
+	    <key>width</key>	    <integer>102</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>99</integer>
+	    <key>width</key>
+	    <integer>90</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>171</integer>
+	    <key>width</key>
+	    <integer>64</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>559</integer>
+	    <key>width</key>
+	    <integer>95</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>577</integer>
+	    <key>width</key>
+	    <integer>63</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

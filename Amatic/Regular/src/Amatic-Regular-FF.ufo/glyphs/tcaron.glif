@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="700"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="comma" xOffset="631" yOffset="1216"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1038</integer>
+	    <key>width</key>	    <integer>338</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1290</integer>
+	    <key>width</key>	    <integer>53</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>294</integer>
+	    <key>width</key>
+	    <integer>77</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>340</integer>
+	    <key>width</key>
+	    <integer>79</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>905</integer>
+	    <key>width</key>
+	    <integer>86</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

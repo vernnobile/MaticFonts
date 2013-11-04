@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="880"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="847" y="-44" type="curve"/>
+      <point x="785" y="-44" type="line"/>
+      <point x="785" y="-50"/>
+      <point x="684" y="-50"/>
+      <point x="571" y="-50" type="curve" smooth="yes"/>
+      <point x="269" y="-50" type="line" smooth="yes"/>
+      <point x="249" y="-50"/>
+      <point x="227" y="-38"/>
+      <point x="227" y="-15" type="curve" smooth="yes"/>
+      <point x="227" y="-9"/>
+      <point x="366" y="-9"/>
+      <point x="509" y="-9" type="curve" smooth="yes"/>
+      <point x="803" y="-9" type="line" smooth="yes"/>
+      <point x="821" y="-9"/>
+      <point x="847" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-50</integer>
+	    <key>width</key>	    <integer>41</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>227</integer>
+	    <key>width</key>
+	    <integer>620</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="640"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="16703" yOffset="3094"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1516</integer>
+	    <key>width</key>	    <integer>45</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>2998</integer>
+	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>16243</integer>
+	    <key>width</key>
+	    <integer>54</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>16340</integer>
+	    <key>width</key>
+	    <integer>102</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>16374</integer>
+	    <key>width</key>
+	    <integer>46</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>16465</integer>
+	    <key>width</key>
+	    <integer>51</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
