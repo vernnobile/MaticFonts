@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="igrave" format="1">
-  <advance width="550"/>
-  <unicode hex="00EC"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="igrave" format="1">
+  <advance width="900"></advance>
+  <unicode hex="00EC"></unicode>
   <outline>
-    <component base="dotlessi"/>
-    <component base="grave" xOffset="-171" yOffset="-70"/>
+    <component base="dotlessi" xOffset="-1760.152832" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="-1981.741211" yOffset="-70.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

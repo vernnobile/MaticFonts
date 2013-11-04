@@ -1,56 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tcommaaccent" format="1">
-  <advance width="542"/>
-  <unicode hex="0162"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Tcommaaccent" format="1">
+  <advance width="860"></advance>
+  <unicode hex="0162"></unicode>
   <outline>
-    <component base="T"/>
-    <component base="cedilla" xOffset="155" yOffset="12"/>
+    <component base="T" xOffset="4913.499023" yOffset="0.000000" ></component>
+    <component base="cedilla" xOffset="5023.000000" yOffset="12.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-467</integer>
-	    <key>width</key>	    <integer>55</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-16</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-12</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1474</integer>
-	    <key>width</key>	    <integer>72</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>272</integer>
-	    <key>width</key>
-	    <integer>69</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>311</integer>
-	    <key>width</key>
-	    <integer>51</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>438</integer>
-	    <key>width</key>
-	    <integer>73</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-467</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-16</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-12</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1474</integer>
+            <key>width</key>
+            <integer>72</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>272</integer>
+            <key>width</key>
+            <integer>69</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>311</integer>
+            <key>width</key>
+            <integer>51</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>436</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+        </array>
       </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

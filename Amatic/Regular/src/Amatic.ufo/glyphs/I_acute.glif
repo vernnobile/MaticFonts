@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iacute" format="1">
-  <advance width="477"/>
-  <unicode hex="00CD"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Iacute" format="1">
+  <advance width="680"></advance>
+  <unicode hex="00CD"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="acute" xOffset="41" yOffset="365"/>
+    <component base="I" xOffset="851.317688" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="890.141235" yOffset="365.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

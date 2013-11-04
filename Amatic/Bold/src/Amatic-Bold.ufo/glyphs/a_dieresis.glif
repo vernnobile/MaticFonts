@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adieresis" format="1">
-  <advance width="656"/>
-  <unicode hex="00C4"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Adieresis" format="1">
+  <advance width="900"></advance>
+  <unicode hex="00C4"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="dieresis" xOffset="79" yOffset="753"/>
+    <component base="A" xOffset="-22.470497" yOffset="0.000000" ></component>
+    <component base="dieresis" xOffset="78.964745" yOffset="753.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

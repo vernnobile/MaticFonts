@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Emacron" format="1">
-  <advance width="457"/>
-  <unicode hex="0112"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Emacron" format="1">
+  <advance width="846"></advance>
+  <unicode hex="0112"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="macron" xOffset="-148" yOffset="1048"/>
+    <component base="E" xOffset="-832.305786" yOffset="0.000000" ></component>
+    <component base="macron" xOffset="-930.211853" yOffset="1048.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

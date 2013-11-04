@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ubreve" format="1">
-  <advance width="743"/>
-  <unicode hex="016C"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ubreve" format="1">
+  <advance width="820"></advance>
+  <unicode hex="016C"></unicode>
   <outline>
-    <component base="U"/>
-    <component base="breve" xOffset="68" yOffset="782"/>
+    <component base="U" xOffset="934.305786" yOffset="0.000000" ></component>
+    <component base="breve" xOffset="982.070679" yOffset="782.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idieresis" format="1">
-  <advance width="477"/>
-  <unicode hex="00CF"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Idieresis" format="1">
+  <advance width="980"></advance>
+  <unicode hex="00CF"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="dieresis" xOffset="-214" yOffset="702"/>
+    <component base="I" xOffset="-3104.176514" yOffset="0.000000" ></component>
+    <component base="dieresis" xOffset="-3299.294189" yOffset="702.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

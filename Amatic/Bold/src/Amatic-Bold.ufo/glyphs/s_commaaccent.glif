@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scommaaccent" format="1">
-  <advance width="523"/>
-  <unicode hex="0218"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Scommaaccent" format="1">
+  <advance width="936"></advance>
+  <unicode hex="0218"></unicode>
   <outline>
-    <component base="S"/>
-    <component base="uni0326" xOffset="46" yOffset="27"/>
+    <component base="S" xOffset="610.823608" yOffset="0.000000" ></component>
+    <component base="uni0326" xOffset="638.694092" yOffset="27.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

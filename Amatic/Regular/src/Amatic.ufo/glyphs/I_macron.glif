@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Imacron" format="1">
-  <advance width="477"/>
-  <unicode hex="012A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Imacron" format="1">
+  <advance width="780"></advance>
+  <unicode hex="012A"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="macron" xOffset="-135" yOffset="971"/>
+    <component base="I" xOffset="-1920.070435" yOffset="0.000000" ></component>
+    <component base="macron" xOffset="-2010.011719" yOffset="971.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

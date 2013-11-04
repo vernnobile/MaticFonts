@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcedilla" format="1">
-  <advance width="774"/>
-  <unicode hex="0122"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Gcedilla" format="1">
+  <advance width="940"></advance>
+  <unicode hex="0122"></unicode>
   <outline>
-    <component base="G"/>
-    <component base="uni0326" xOffset="269" yOffset="-41"/>
+    <component base="G" xOffset="5995.187500" yOffset="0.000000" ></component>
+    <component base="uni0326" xOffset="6160.776367" yOffset="-41.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
-  <advance width="523"/>
-  <unicode hex="015E"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Scedilla" format="1">
+  <advance width="900"></advance>
+  <unicode hex="015E"></unicode>
   <outline>
-    <component base="S"/>
-    <component base="cedilla" xOffset="166" yOffset="-46"/>
+    <component base="S" xOffset="2434.753174" yOffset="0.000000" ></component>
+    <component base="cedilla" xOffset="2588.376465" yOffset="-46.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

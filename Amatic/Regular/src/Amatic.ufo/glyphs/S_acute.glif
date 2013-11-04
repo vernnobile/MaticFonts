@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Sacute" format="1">
-  <advance width="569"/>
-  <unicode hex="015A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Sacute" format="1">
+  <advance width="740"></advance>
+  <unicode hex="015A"></unicode>
   <outline>
-    <component base="S"/>
-    <component base="acute" xOffset="84" yOffset="367"/>
+    <component base="S" xOffset="1816.399902" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="1878.105957" yOffset="367.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

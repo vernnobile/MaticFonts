@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="atilde" format="1">
-  <advance width="667"/>
-  <unicode hex="00E3"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="atilde" format="1">
+  <advance width="720"></advance>
+  <unicode hex="00E3"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="tilde" xOffset="58" yOffset="459"/>
+    <component base="a" xOffset="-528.117676" yOffset="0.000000" ></component>
+    <component base="tilde" xOffset="-497.529358" yOffset="459.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -26,11 +30,11 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1481</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>width</key>	    <integer>54</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1608</integer>
-	    <key>width</key>	    <integer>51</integer>
+	    <key>width</key>	    <integer>48</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
@@ -43,21 +47,9 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>381</integer>
+	    <integer>502</integer>
 	    <key>width</key>
-	    <integer>47</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>446</integer>
-	    <key>width</key>
-	    <integer>99</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>492</integer>
-	    <key>width</key>
-	    <integer>77</integer>
+	    <integer>67</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

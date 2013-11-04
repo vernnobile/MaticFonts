@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ncaron" format="1">
-  <advance width="737"/>
-  <unicode hex="0147"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ncaron" format="1">
+  <advance width="972"></advance>
+  <unicode hex="0147"></unicode>
   <outline>
-    <component base="N"/>
-    <component base="caron" xOffset="61" yOffset="831"/>
+    <component base="N" xOffset="-304.729370" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="-224.823547" yOffset="831.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

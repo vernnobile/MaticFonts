@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lacute" format="1">
-  <advance width="430"/>
-  <unicode hex="0139"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Lacute" format="1">
+  <advance width="864"></advance>
+  <unicode hex="0139"></unicode>
   <outline>
-    <component base="L"/>
-    <component base="acute" xOffset="-67" yOffset="457"/>
+    <component base="L" xOffset="187.517609" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="87.329437" yOffset="457.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

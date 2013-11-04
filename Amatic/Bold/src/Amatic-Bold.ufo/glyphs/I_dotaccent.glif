@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idotaccent" format="1">
-  <advance width="432"/>
-  <unicode hex="0130"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Idotaccent" format="1">
+  <advance width="756"></advance>
+  <unicode hex="0130"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="uni0307" xOffset="-52" yOffset="358"/>
+    <component base="I" xOffset="924.988281" yOffset="0.000000" ></component>
+    <component base="uni0307" xOffset="851.764709" yOffset="358.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

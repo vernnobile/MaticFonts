@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onehalf" format="1">
-  <advance width="1600"/>
-  <unicode hex="00BD"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="onehalf" format="1">
+  <advance width="1584"></advance>
+  <unicode hex="00BD"></unicode>
   <outline>
-    <component base="one"/>
-    <component base="slash" xOffset="559"/>
-    <component base="two" xOffset="1071"/>
+    <component base="one" xOffset="15689.082031" yOffset="0.000000" ></component>
+    <component base="slash" xOffset="16235.329102" yOffset="0.000000" ></component>
+    <component base="two" xOffset="16770.515625" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

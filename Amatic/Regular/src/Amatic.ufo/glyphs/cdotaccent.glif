@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cdotaccent" format="1">
-  <advance width="550"/>
-  <unicode hex="010B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="cdotaccent" format="1">
+  <advance width="740"></advance>
+  <unicode hex="010B"></unicode>
   <outline>
-    <component base="c"/>
-    <component base="dotaccentcmb" xOffset="87" yOffset="326"/>
+    <component base="c" xOffset="1533.235352" yOffset="0.000000" ></component>
+    <component base="dotaccentcmb" xOffset="1605.000000" yOffset="326.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

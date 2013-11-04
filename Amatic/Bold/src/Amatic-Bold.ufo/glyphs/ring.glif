@@ -1,39 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ring" format="1">
-  <advance width="685"/>
-  <unicode hex="02DA"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ring" format="1">
+  <advance width="882"></advance>
+  <unicode hex="02DA"></unicode>
   <outline>
     <contour>
-      <point x="80" y="395" type="curve" smooth="yes"/>
-      <point x="80" y="531"/>
-      <point x="171" y="634"/>
-      <point x="312" y="634" type="curve" smooth="yes"/>
-      <point x="549" y="634"/>
-      <point x="606" y="485"/>
-      <point x="606" y="397" type="curve" smooth="yes"/>
-      <point x="606" y="313"/>
-      <point x="557" y="102"/>
-      <point x="312" y="102" type="curve" smooth="yes"/>
-      <point x="121" y="102"/>
-      <point x="80" y="281"/>
+      <point x="174" y="395" type="curve" smooth="yes"></point>
+      <point x="174" y="531"></point>
+      <point x="265" y="634"></point>
+      <point x="406" y="634" type="curve" smooth="yes"></point>
+      <point x="643" y="634"></point>
+      <point x="700" y="485"></point>
+      <point x="700" y="397" type="curve" smooth="yes"></point>
+      <point x="700" y="313"></point>
+      <point x="651" y="102"></point>
+      <point x="406" y="102" type="curve" smooth="yes"></point>
+      <point x="215" y="102"></point>
+      <point x="174" y="281"></point>
     </contour>
     <contour>
-      <point x="322" y="565" type="curve" smooth="yes"/>
-      <point x="192" y="565"/>
-      <point x="156" y="437"/>
-      <point x="156" y="329" type="curve" smooth="yes"/>
-      <point x="156" y="271"/>
-      <point x="230" y="179"/>
-      <point x="320" y="179" type="curve" smooth="yes"/>
-      <point x="502" y="179"/>
-      <point x="538" y="332"/>
-      <point x="538" y="393" type="curve" smooth="yes"/>
-      <point x="538" y="456"/>
-      <point x="496" y="565"/>
+      <point x="416" y="565" type="curve" smooth="yes"></point>
+      <point x="286" y="565"></point>
+      <point x="250" y="437"></point>
+      <point x="250" y="329" type="curve" smooth="yes"></point>
+      <point x="250" y="271"></point>
+      <point x="324" y="179"></point>
+      <point x="414" y="179" type="curve" smooth="yes"></point>
+      <point x="596" y="179"></point>
+      <point x="632" y="332"></point>
+      <point x="632" y="393" type="curve" smooth="yes"></point>
+      <point x="632" y="456"></point>
+      <point x="590" y="565"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni00B2" format="1">
-  <advance width="529"/>
-  <unicode hex="00B2"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni00B2" format="1">
+  <advance width="954"></advance>
+  <unicode hex="00B2"></unicode>
   <outline>
-    <component base="two"/>
+    <component base="two" xOffset="666.894165" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

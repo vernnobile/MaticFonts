@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kgreenlandic" format="1">
-  <advance width="637"/>
-  <unicode hex="0138"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="kgreenlandic" format="1">
+  <advance width="792"></advance>
+  <unicode hex="0138"></unicode>
   <outline>
-    <component base="k"/>
+    <component base="k" xOffset="-784.447083" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

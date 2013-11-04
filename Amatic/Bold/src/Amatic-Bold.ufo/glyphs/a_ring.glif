@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aring" format="1">
-  <advance width="656"/>
-  <unicode hex="00C5"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Aring" format="1">
+  <advance width="1080"></advance>
+  <unicode hex="00C5"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="ring" xOffset="101" yOffset="1465"/>
+    <component base="A" xOffset="820.447083" yOffset="0.000000" ></component>
+    <component base="ring" xOffset="926.976440" yOffset="1465.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

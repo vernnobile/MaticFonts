@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gdotaccent" format="1">
-  <advance width="727"/>
-  <unicode hex="0120"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Gdotaccent" format="1">
+  <advance width="972"></advance>
+  <unicode hex="0120"></unicode>
   <outline>
-    <component base="G"/>
-    <component base="dotaccent" xOffset="119" yOffset="1611"/>
+    <component base="G" xOffset="-157.129440" yOffset="0.000000" ></component>
+    <component base="dotaccent" xOffset="-34.694077" yOffset="1611.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

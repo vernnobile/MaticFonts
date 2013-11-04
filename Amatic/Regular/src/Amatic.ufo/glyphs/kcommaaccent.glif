@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kcommaaccent" format="1">
-  <advance width="677"/>
-  <unicode hex="0137"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="kcommaaccent" format="1">
+  <advance width="840"></advance>
+  <unicode hex="0137"></unicode>
   <outline>
-    <component base="k"/>
-    <component base="uni0326" xOffset="224" yOffset="-37"/>
+    <component base="k" xOffset="4480.176270" yOffset="0.000000" ></component>
+    <component base="uni0326" xOffset="4592.764648" yOffset="-37.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wgrave" format="1">
-  <advance width="901"/>
-  <unicode hex="1E80"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Wgrave" format="1">
+  <advance width="1008"></advance>
+  <unicode hex="1E80"></unicode>
   <outline>
-    <component base="W"/>
-    <component base="grave" xOffset="14" yOffset="171"/>
+    <component base="W" xOffset="-240.070618" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="-382.141174" yOffset="171.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
