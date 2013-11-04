@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="1">
+  <advance width="455"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <component base="dieresis" xOffset="-116" yOffset="587"/>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>718</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1541</integer>
+	    <key>width</key>	    <integer>141</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-11</integer>
+	    <key>width</key>
+	    <integer>141</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>122</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>75</integer>
+	    <key>width</key>
+	    <integer>331</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>269</integer>
+	    <key>width</key>
+	    <integer>141</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

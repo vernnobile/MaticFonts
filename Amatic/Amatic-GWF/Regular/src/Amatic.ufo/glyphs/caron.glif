@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="473"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="309" y="1317" type="curve"/>
+      <point x="336" y="1333" type="line"/>
+      <point x="348" y="1331"/>
+      <point x="373" y="1325"/>
+      <point x="373" y="1309" type="curve" smooth="yes"/>
+      <point x="373" y="1305"/>
+      <point x="367" y="1290"/>
+      <point x="365" y="1286" type="curve"/>
+      <point x="367" y="1276" type="line"/>
+      <point x="352" y="1245" type="line"/>
+      <point x="354" y="1233" type="line"/>
+      <point x="331" y="1149"/>
+      <point x="293" y="1083"/>
+      <point x="293" y="993" type="curve" smooth="yes"/>
+      <point x="293" y="973"/>
+      <point x="291" y="950"/>
+      <point x="264" y="950" type="curve" smooth="yes"/>
+      <point x="219" y="950"/>
+      <point x="94" y="1245"/>
+      <point x="92" y="1296" type="curve"/>
+      <point x="129" y="1323" type="line"/>
+      <point x="164" y="1276" type="line"/>
+      <point x="168" y="1231"/>
+      <point x="232" y="1063"/>
+      <point x="250" y="1010" type="curve"/>
+      <point x="277" y="1110"/>
+      <point x="301" y="1213"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>950</integer>
+	    <key>width</key>	    <integer>383</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>92</integer>
+	    <key>width</key>
+	    <integer>72</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>309</integer>
+	    <key>width</key>
+	    <integer>64</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

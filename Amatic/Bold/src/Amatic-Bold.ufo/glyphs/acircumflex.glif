@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acircumflex" format="1">
-  <advance width="621"/>
-  <unicode hex="00E2"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="acircumflex" format="1">
+  <advance width="810"></advance>
+  <unicode hex="00E2"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="circumflex" xOffset="-23" yOffset="634"/>
+    <component base="a" xOffset="-296.188202" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="-320.752930" yOffset="634.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

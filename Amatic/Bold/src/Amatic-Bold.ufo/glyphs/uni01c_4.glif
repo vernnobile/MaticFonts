@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01C4" format="1">
-  <advance width="1082"/>
-  <unicode hex="01C4"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01C4" format="1">
+  <advance width="1314"></advance>
+  <unicode hex="01C4"></unicode>
   <outline>
-    <component base="D"/>
-    <component base="Zcaron" xOffset="653"/>
+    <component base="D" xOffset="9921.870117" yOffset="0.000000" ></component>
+    <component base="Zcaron" xOffset="10184.906250" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

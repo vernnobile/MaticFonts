@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abreve" format="1">
-  <advance width="667"/>
-  <unicode hex="0103"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="abreve" format="1">
+  <advance width="800"></advance>
+  <unicode hex="0103"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="breve" xOffset="120" yOffset="588"/>
+    <component base="a" xOffset="2559.541016" yOffset="0.000000" ></component>
+    <component base="breve" xOffset="2642.070557" yOffset="588.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -33,27 +37,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>381</integer>
-	    <key>width</key>
-	    <integer>47</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>446</integer>
-	    <key>width</key>
-	    <integer>99</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
 	    <integer>464</integer>
 	    <key>width</key>
 	    <integer>68</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>492</integer>
+	    <integer>502</integer>
 	    <key>width</key>
-	    <integer>77</integer>
+	    <integer>67</integer>
 	  </dict>
 	</array>
       </dict>

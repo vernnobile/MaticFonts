@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aogonek" format="1">
-  <advance width="696"/>
-  <unicode hex="0104"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Aogonek" format="1">
+  <advance width="900"></advance>
+  <unicode hex="0104"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="ogonek" xOffset="307" yOffset="24"/>
+    <component base="A" xOffset="6754.505371" yOffset="0.000000" ></component>
+    <component base="ogonek" xOffset="6992.741211" yOffset="24.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

@@ -1,58 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wgrave" format="1">
-  <advance width="950"/>
-  <unicode hex="1E80"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Wgrave" format="1">
+  <advance width="1140"></advance>
+  <unicode hex="1E80"></unicode>
   <outline>
-    <component base="W"/>
-    <component base="grave" xOffset="191" yOffset="165"/>
+    <component base="W" xOffset="937.082336" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="1015.976501" yOffset="165.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-27</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1713</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1783</integer>
-	    <key>width</key>	    <integer>86</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>266</integer>
-	    <key>width</key>
-	    <integer>92</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>295</integer>
-	    <key>width</key>
-	    <integer>334</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>776</integer>
-	    <key>width</key>
-	    <integer>92</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>778</integer>
-	    <key>width</key>
-	    <integer>70</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-27</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1713</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1783</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>266</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>295</integer>
+            <key>width</key>
+            <integer>334</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>776</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>778</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+        </array>
       </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

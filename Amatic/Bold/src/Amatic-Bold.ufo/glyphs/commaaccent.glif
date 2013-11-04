@@ -1,24 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaaccent" format="1">
-  <advance width="462"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="commaaccent" format="1">
+  <advance width="684"></advance>
   <outline>
     <contour>
-      <point x="151" y="-550" type="curve" smooth="yes"/>
-      <point x="127" y="-550"/>
-      <point x="117" y="-544"/>
-      <point x="117" y="-527" type="curve"/>
-      <point x="117" y="-527"/>
-      <point x="183" y="-174"/>
-      <point x="302" y="-174" type="curve"/>
-      <point x="316" y="-185"/>
-      <point x="358" y="-183"/>
-      <point x="358" y="-215" type="curve" smooth="yes"/>
-      <point x="358" y="-317"/>
-      <point x="185" y="-550"/>
+      <point x="288" y="-550" type="curve" smooth="yes"></point>
+      <point x="264" y="-550"></point>
+      <point x="254" y="-544"></point>
+      <point x="254" y="-527" type="curve"></point>
+      <point x="254" y="-527"></point>
+      <point x="320" y="-174"></point>
+      <point x="439" y="-174" type="curve"></point>
+      <point x="453" y="-185"></point>
+      <point x="495" y="-183"></point>
+      <point x="495" y="-215" type="curve" smooth="yes"></point>
+      <point x="495" y="-317"></point>
+      <point x="322" y="-550"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

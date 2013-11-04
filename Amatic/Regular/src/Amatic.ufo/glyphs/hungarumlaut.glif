@@ -1,50 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlaut" format="1">
-  <advance width="1222"/>
-  <unicode hex="02DD"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hungarumlaut" format="1">
+  <advance width="940"></advance>
+  <unicode hex="02DD"></unicode>
   <outline>
     <contour>
-      <point x="142" y="50" type="line"/>
-      <point x="149" y="81"/>
-      <point x="476" y="332"/>
-      <point x="500" y="332" type="curve" smooth="yes"/>
-      <point x="503" y="332"/>
-      <point x="523" y="317"/>
-      <point x="523" y="301" type="curve" smooth="yes"/>
-      <point x="523" y="294"/>
-      <point x="519" y="287"/>
-      <point x="509" y="281" type="curve"/>
-      <point x="492" y="268"/>
-      <point x="335" y="148"/>
-      <point x="307" y="130" type="curve"/>
-      <point x="252" y="104"/>
-      <point x="212" y="53"/>
-      <point x="152" y="39" type="curve"/>
+      <point x="99" y="50" type="line"></point>
+      <point x="106" y="81"></point>
+      <point x="433" y="332"></point>
+      <point x="457" y="332" type="curve" smooth="yes"></point>
+      <point x="460" y="332"></point>
+      <point x="480" y="317"></point>
+      <point x="480" y="301" type="curve" smooth="yes"></point>
+      <point x="480" y="294"></point>
+      <point x="476" y="287"></point>
+      <point x="466" y="281" type="curve"></point>
+      <point x="449" y="268"></point>
+      <point x="292" y="148"></point>
+      <point x="264" y="130" type="curve"></point>
+      <point x="209" y="104"></point>
+      <point x="169" y="53"></point>
+      <point x="109" y="39" type="curve"></point>
     </contour>
     <contour>
-      <point x="450" y="60" type="curve" smooth="yes"/>
-      <point x="450" y="85"/>
-      <point x="673" y="238"/>
-      <point x="703" y="257" type="curve" smooth="yes"/>
-      <point x="717" y="265"/>
-      <point x="803" y="317"/>
-      <point x="817" y="317" type="curve" smooth="yes"/>
-      <point x="832" y="317"/>
-      <point x="855" y="288"/>
-      <point x="859" y="267" type="curve"/>
-      <point x="753" y="207" type="line"/>
-      <point x="728" y="197"/>
-      <point x="678" y="171"/>
-      <point x="642" y="152" type="curve" smooth="yes"/>
-      <point x="612" y="136"/>
-      <point x="479" y="45"/>
-      <point x="461" y="45" type="curve" smooth="yes"/>
-      <point x="451" y="45"/>
-      <point x="450" y="52"/>
+      <point x="407" y="60" type="curve" smooth="yes"></point>
+      <point x="407" y="85"></point>
+      <point x="630" y="238"></point>
+      <point x="660" y="257" type="curve" smooth="yes"></point>
+      <point x="674" y="265"></point>
+      <point x="760" y="317"></point>
+      <point x="774" y="317" type="curve" smooth="yes"></point>
+      <point x="789" y="317"></point>
+      <point x="812" y="288"></point>
+      <point x="816" y="267" type="curve"></point>
+      <point x="710" y="207" type="line"></point>
+      <point x="685" y="197"></point>
+      <point x="635" y="171"></point>
+      <point x="599" y="152" type="curve" smooth="yes"></point>
+      <point x="569" y="136"></point>
+      <point x="436" y="45"></point>
+      <point x="418" y="45" type="curve" smooth="yes"></point>
+      <point x="408" y="45"></point>
+      <point x="407" y="52"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

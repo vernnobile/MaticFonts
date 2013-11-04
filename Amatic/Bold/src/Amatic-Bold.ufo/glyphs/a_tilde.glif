@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Atilde" format="1">
-  <advance width="656"/>
-  <unicode hex="00C3"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Atilde" format="1">
+  <advance width="864"></advance>
+  <unicode hex="00C3"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="tilde" xOffset="56" yOffset="669"/>
+    <component base="A" xOffset="-145.399933" yOffset="0.000000" ></component>
+    <component base="tilde" xOffset="-64.870575" yOffset="669.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

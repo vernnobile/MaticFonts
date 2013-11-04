@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ccaron" format="1">
-  <advance width="649"/>
-  <unicode hex="010C"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ccaron" format="1">
+  <advance width="864"></advance>
+  <unicode hex="010C"></unicode>
   <outline>
-    <component base="C"/>
-    <component base="caron" xOffset="4" yOffset="820"/>
+    <component base="C" xOffset="-567.376526" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="-536.564758" yOffset="820.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

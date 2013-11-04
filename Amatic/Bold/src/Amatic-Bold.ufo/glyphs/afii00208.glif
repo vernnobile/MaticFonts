@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="afii00208" format="1">
-  <advance width="2048"/>
-  <unicode hex="2015"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="afii00208" format="1">
+  <advance width="-10944"></advance>
+  <unicode hex="2015"></unicode>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

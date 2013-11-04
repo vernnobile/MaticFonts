@@ -1,26 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hyphen" format="1">
-  <advance width="731"/>
-  <unicode hex="002D"/>
-  <unicode hex="2015"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hyphen" format="1">
+  <advance width="792"></advance>
+  <unicode hex="002D"></unicode>
+  <unicode hex="2015"></unicode>
   <outline>
     <contour>
-      <point x="587" y="739" type="curve" smooth="yes"/>
-      <point x="587" y="666"/>
-      <point x="270" y="656"/>
-      <point x="212" y="656" type="curve" smooth="yes"/>
-      <point x="179" y="656"/>
-      <point x="145" y="680"/>
-      <point x="145" y="715" type="curve" smooth="yes"/>
-      <point x="145" y="787"/>
-      <point x="462" y="798"/>
-      <point x="519" y="798" type="curve" smooth="yes"/>
-      <point x="552" y="798"/>
-      <point x="587" y="775"/>
+      <point x="616" y="739" type="curve" smooth="yes"></point>
+      <point x="616" y="666"></point>
+      <point x="299" y="656"></point>
+      <point x="241" y="656" type="curve" smooth="yes"></point>
+      <point x="208" y="656"></point>
+      <point x="174" y="680"></point>
+      <point x="174" y="715" type="curve" smooth="yes"></point>
+      <point x="174" y="787"></point>
+      <point x="491" y="798"></point>
+      <point x="548" y="798" type="curve" smooth="yes"></point>
+      <point x="581" y="798"></point>
+      <point x="616" y="775"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

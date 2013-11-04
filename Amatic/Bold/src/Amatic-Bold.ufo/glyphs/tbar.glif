@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tbar" format="1">
-  <advance width="493"/>
-  <unicode hex="0167"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="tbar" format="1">
+  <advance width="810"></advance>
+  <unicode hex="0167"></unicode>
   <outline>
-    <component base="macron" xOffset="-48"/>
-    <component base="t"/>
+    <component base="macron" xOffset="-173.588242" yOffset="0.000000" ></component>
+    <component base="t" xOffset="-141.962402" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>

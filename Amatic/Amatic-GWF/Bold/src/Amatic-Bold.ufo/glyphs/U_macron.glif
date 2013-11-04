@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="699"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <component base="macron" xOffset="-21" yOffset="1048"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-37</integer>
+	    <key>width</key>	    <integer>72</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1748</integer>
+	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>52</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>83</integer>
+	    <key>width</key>
+	    <integer>442</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>476</integer>
+	    <key>width</key>
+	    <integer>127</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>521</integer>
+	    <key>width</key>
+	    <integer>104</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

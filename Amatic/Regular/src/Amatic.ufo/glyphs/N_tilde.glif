@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ntilde" format="1">
-  <advance width="772"/>
-  <unicode hex="00D1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ntilde" format="1">
+  <advance width="840"></advance>
+  <unicode hex="00D1"></unicode>
   <outline>
-    <component base="N"/>
-    <component base="tilde" xOffset="28" yOffset="678"/>
+    <component base="N" xOffset="-1654.282227" yOffset="0.000000" ></component>
+    <component base="tilde" xOffset="-1632.282227" yOffset="678.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -22,11 +26,11 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1700</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>width</key>	    <integer>54</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1827</integer>
-	    <key>width</key>	    <integer>51</integer>
+	    <key>width</key>	    <integer>48</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
