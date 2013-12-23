@@ -4,7 +4,7 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="593" y="700" type="curve"/>
+      <point x="593" y="700" type="curve" smooth="yes"/>
       <point x="593" y="643"/>
       <point x="593" y="583"/>
       <point x="595" y="530" type="curve" smooth="yes"/>
@@ -66,15 +66,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>534</integer>
+	    <integer>381</integer>
 	    <key>width</key>
 	    <integer>61</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -33,15 +33,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>155</integer>
+	    <integer>113</integer>
 	    <key>width</key>
 	    <integer>395</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

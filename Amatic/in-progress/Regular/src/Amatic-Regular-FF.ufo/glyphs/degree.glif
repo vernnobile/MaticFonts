@@ -51,21 +51,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>179</integer>
+	    <integer>256</integer>
 	    <key>width</key>
 	    <integer>45</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>496</integer>
+	    <integer>573</integer>
 	    <key>width</key>
 	    <integer>39</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

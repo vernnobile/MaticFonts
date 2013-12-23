@@ -4,7 +4,7 @@
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ring" xOffset="501" yOffset="1486"/>
+    <component base="ring" xOffset="176" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -17,51 +17,55 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1608</integer>
+	    <key>position</key>	    <integer>1563</integer>
 	    <key>width</key>	    <integer>39</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1974</integer>
-	    <key>width</key>	    <integer>47</integer>
+	    <key>position</key>	    <integer>1759</integer>
+	    <key>width</key>	    <integer>39</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>123</integer>
+	    <integer>77</integer>
 	    <key>width</key>
 	    <integer>64</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>311</integer>
+	    <integer>301</integer>
 	    <key>width</key>
-	    <integer>45</integer>
+	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>552</integer>
+	    <integer>479</integer>
+	    <key>width</key>
+	    <integer>53</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>506</integer>
 	    <key>width</key>
 	    <integer>61</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>552</integer>
+	    <integer>506</integer>
 	    <key>width</key>
 	    <integer>84</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>628</integer>
-	    <key>width</key>
-	    <integer>39</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

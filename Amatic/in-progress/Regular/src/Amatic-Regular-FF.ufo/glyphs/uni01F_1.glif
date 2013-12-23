@@ -37,45 +37,49 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>139</integer>
+	    <integer>82</integer>
 	    <key>width</key>
 	    <integer>80</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>168</integer>
+	    <integer>111</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>184</integer>
+	    <integer>127</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>204</integer>
+	    <integer>147</integer>
 	    <key>width</key>
 	    <integer>64</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>592</integer>
+	    <integer>535</integer>
 	    <key>width</key>
 	    <integer>62</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>975</integer>
+	    <integer>780</integer>
 	    <key>width</key>
 	    <integer>305</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

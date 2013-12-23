@@ -10,7 +10,7 @@
       <point x="423" y="-68" type="curve"/>
       <point x="286" y="-41"/>
       <point x="222" y="8"/>
-      <point x="202" y="227" type="curve"/>
+      <point x="202" y="227" type="curve" smooth="yes"/>
       <point x="186" y="387"/>
       <point x="179" y="547"/>
       <point x="179" y="707" type="curve" smooth="yes"/>
@@ -20,7 +20,7 @@
       <point x="382" y="1368" type="curve"/>
       <point x="411" y="1356"/>
       <point x="441" y="1353"/>
-      <point x="470" y="1341" type="curve"/>
+      <point x="470" y="1341" type="curve" smooth="yes"/>
       <point x="654" y="1255"/>
       <point x="663" y="991"/>
       <point x="663" y="817" type="curve" smooth="yes"/>
@@ -76,34 +76,30 @@
 	    <key>position</key>	    <integer>-434</integer>
 	    <key>width</key>	    <integer>69</integer>
 	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1348</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1348</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>179</integer>
+	    <integer>94</integer>
 	    <key>width</key>
 	    <integer>60</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>601</integer>
+	    <integer>516</integer>
 	    <key>width</key>
 	    <integer>62</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

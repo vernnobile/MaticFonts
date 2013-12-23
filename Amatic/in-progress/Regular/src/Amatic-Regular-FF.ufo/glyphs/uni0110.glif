@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0110" format="1">
-  <advance width="1100"/>
+  <advance width="880"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="Eth" xOffset="123"/>
+    <component base="Eth"/>
   </outline>
   <lib>
     <dict>
@@ -24,33 +24,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>284</integer>
+	    <integer>182</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>344</integer>
+	    <integer>242</integer>
 	    <key>width</key>
 	    <integer>67</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>362</integer>
+	    <integer>260</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>761</integer>
+	    <integer>659</integer>
 	    <key>width</key>
 	    <integer>74</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

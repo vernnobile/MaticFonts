@@ -4,7 +4,7 @@
   <unicode hex="021A"/>
   <outline>
     <component base="T"/>
-    <component base="uni0326" xOffset="93" yOffset="-32"/>
+    <component base="commaaccent" xOffset="67.9237" yOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -13,37 +13,49 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-472</integer>
-	    <key>width</key>	    <integer>338</integer>
-	  </dict>
-	  <dict>
 	    <key>position</key>	    <integer>-12</integer>
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1474</integer>
-	    <key>width</key>	    <integer>70</integer>
+	    <key>position</key>	    <integer>1481</integer>
+	    <key>width</key>	    <integer>65</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>341</integer>
+	    <integer>264</integer>
 	    <key>width</key>
-	    <integer>69</integer>
+	    <integer>58</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>431</integer>
+	    <integer>274</integer>
+	    <key>width</key>
+	    <integer>78</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>283</integer>
 	    <key>width</key>
 	    <integer>86</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>291</integer>
+	    <key>width</key>
+	    <integer>51</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

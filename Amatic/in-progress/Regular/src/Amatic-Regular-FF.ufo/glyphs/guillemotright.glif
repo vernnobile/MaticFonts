@@ -84,21 +84,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>177</integer>
+	    <integer>158</integer>
 	    <key>width</key>
 	    <integer>104</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>433</integer>
+	    <integer>414</integer>
 	    <key>width</key>
 	    <integer>71</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

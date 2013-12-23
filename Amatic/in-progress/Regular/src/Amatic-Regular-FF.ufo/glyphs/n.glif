@@ -4,6 +4,9 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
+      <point x="506" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="544" y="418" type="curve"/>
       <point x="536" y="428"/>
       <point x="495" y="553"/>
@@ -105,42 +108,42 @@
 	    <key>position</key>	    <integer>-4</integer>
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1330</integer>
-	    <key>width</key>	    <integer>11</integer>
-	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>179</integer>
+	    <integer>104</integer>
 	    <key>width</key>
 	    <integer>66</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>192</integer>
+	    <integer>117</integer>
 	    <key>width</key>
 	    <integer>96</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>192</integer>
+	    <integer>117</integer>
 	    <key>width</key>
 	    <integer>65</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>757</integer>
+	    <integer>682</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

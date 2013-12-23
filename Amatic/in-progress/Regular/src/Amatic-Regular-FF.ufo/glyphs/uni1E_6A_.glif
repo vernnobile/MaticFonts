@@ -4,7 +4,7 @@
   <unicode hex="1E6A"/>
   <outline>
     <component base="T"/>
-    <component base="dotaccentcmb" xOffset="89" yOffset="540"/>
+    <component base="dotaccent" xOffset="114" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1474</integer>
-	    <key>width</key>	    <integer>70</integer>
+	    <key>width</key>	    <integer>72</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1693</integer>
@@ -29,22 +29,28 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>292</integer>
+	    <integer>208</integer>
 	    <key>width</key>
 	    <integer>102</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>341</integer>
+	    <integer>272</integer>
 	    <key>width</key>
 	    <integer>69</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

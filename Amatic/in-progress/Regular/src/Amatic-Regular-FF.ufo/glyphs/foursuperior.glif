@@ -134,51 +134,55 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>179</integer>
+	    <integer>100</integer>
 	    <key>width</key>
 	    <integer>58</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>190</integer>
+	    <integer>111</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>210</integer>
+	    <integer>131</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>329</integer>
+	    <integer>250</integer>
 	    <key>width</key>
 	    <integer>57</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>345</integer>
+	    <integer>266</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>372</integer>
+	    <integer>293</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>380</integer>
+	    <integer>301</integer>
 	    <key>width</key>
 	    <integer>64</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

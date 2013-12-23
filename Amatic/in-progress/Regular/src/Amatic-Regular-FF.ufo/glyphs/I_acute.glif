@@ -4,7 +4,7 @@
   <unicode hex="00CD"/>
   <outline>
     <component base="I"/>
-    <component base="acute" xOffset="20" yOffset="384"/>
+    <component base="acute" xOffset="-16" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>64</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1693</integer>
+	    <key>position</key>	    <integer>1674</integer>
 	    <key>width</key>	    <integer>239</integer>
 	  </dict>
 	</array>
@@ -29,27 +29,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>207</integer>
+	    <integer>139</integer>
 	    <key>width</key>
 	    <integer>299</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>259</integer>
+	    <integer>172</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>289</integer>
+	    <integer>202</integer>
 	    <key>width</key>
 	    <integer>68</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

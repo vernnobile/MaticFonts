@@ -3,7 +3,7 @@
   <advance width="700"/>
   <unicode hex="1E6B"/>
   <outline>
-    <component base="dotaccentcmb" xOffset="80" yOffset="345"/>
+    <component base="dotaccent" xOffset="75" yOffset="551"/>
     <component base="t"/>
   </outline>
   <lib>
@@ -13,8 +13,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1290</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>position</key>	    <integer>1298</integer>
+	    <key>width</key>	    <integer>43</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1498</integer>
@@ -25,28 +25,34 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>283</integer>
+	    <integer>209</integer>
 	    <key>width</key>
 	    <integer>102</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>294</integer>
+	    <integer>295</integer>
 	    <key>width</key>
-	    <integer>77</integer>
+	    <integer>2</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>340</integer>
+	    <integer>299</integer>
 	    <key>width</key>
-	    <integer>79</integer>
+	    <integer>66</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

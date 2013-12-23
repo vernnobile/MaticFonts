@@ -3,17 +3,21 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Amatic</string>
+	<string>Amatic Normal</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>copyright</key>
-	<string>Font Data Copyright (c) 2011-13 vernon adams.</string>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved. with
+Reserved Font Names "Amatic" and "Amatic Regular". This
+Font Software is licensed under the SIL Open Font License, Version
+1.1. This license is available with a FAQ at:
+http://scripts.sil.org/OFL</string>
 	<key>trademark</key>
 	<string>Please refer to the Copyright section for the font trademark attribution notices.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1356</integer>
+	<integer>1350</integer>
 	<key>capHeight</key>
 	<integer>1546</integer>
 	<key>ascender</key>
@@ -25,7 +29,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/11/04 18:55:46</string>
+	<string>2013/12/23 23:55:40</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
@@ -61,13 +65,13 @@
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1536</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-512</integer>
+	<integer>512</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2064</integer>
+	<integer>3102</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>20</integer>
+	<integer>-505</integer>
 	<key>openTypeOS2SubscriptXSize</key>
 	<integer>1331</integer>
 	<key>openTypeOS2SubscriptYSize</key>
@@ -97,60 +101,41 @@
 		<integer>0</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Amatic-Regular</string>
+	<string>Amatic</string>
 	<key>postscriptFullName</key>
-	<string>Amatic Regular</string>
+	<string></string>
 	<key>postscriptWeightName</key>
-	<string>Regular</string>
+	<string></string>
 	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
+	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
-	<integer>-102</integer>
+	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-47</integer>
+		<integer>-55</integer>
 		<integer>0</integer>
-		<integer>1329</integer>
-		<integer>1382</integer>
-		<integer>1356</integer>
+		<integer>1374</integer>
 		<integer>1380</integer>
 		<integer>1546</integer>
 		<integer>1577</integer>
 	</array>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer></integer>
-	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>21</integer>
-		<integer>41</integer>
-		<integer>45</integer>
-		<integer>49</integer>
-		<integer>53</integer>
-		<integer>60</integer>
-		<integer>64</integer>
-		<integer>70</integer>
-		<integer>80</integer>
-		<integer>92</integer>
-		<integer>104</integer>
-		<integer>383</integer>
+		<integer>51</integer>
+		<integer>55</integer>
+		<integer>59</integer>
+		<integer>63</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>47</integer>
-		<integer>53</integer>
-		<integer>57</integer>
-		<integer>60</integer>
-		<integer>64</integer>
-		<integer>69</integer>
-		<integer>74</integer>
+		<integer>55</integer>
+		<integer>59</integer>
+		<integer>68</integer>
+		<integer>78</integer>
 	</array>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
 	<key>postscriptBlueShift</key>
-	<integer>7</integer>
+	<integer>18</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.036700000000000003</real>
     </dict>
 </plist>

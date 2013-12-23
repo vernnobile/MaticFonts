@@ -2,45 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-    <key>com.typemytype.robofont.sort</key>
-      <array>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>alphabetical</string>
-    <key>ascending</key>
-      <true/>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>category</string>
-    <key>ascending</key>
-      <true/>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>unicode</string>
-    <key>ascending</key>
-      <true/>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>script</string>
-    <key>ascending</key>
-      <true/>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>suffix</string>
-    <key>ascending</key>
-      <true/>
-      <key>allowPseudoUnicode</key>
-      <true/>
-    <key>type</key>
-      <string>decompositionBase</string>
-    <key>ascending</key>
-      <true/>
-      </array>
     <key>public.glyphOrder</key>
       <array>
         <string>A</string>
@@ -180,7 +141,6 @@
         <string>Eng</string>
         <string>OE</string>
         <string>Tbar</string>
-        <string>DZcaron</string>
         <string>uni01C7</string>
         <string>uni01CA</string>
         <string>uni01F1</string>
@@ -224,7 +184,6 @@
         <string>gcircumflex</string>
         <string>gbreve</string>
         <string>gdotaccent</string>
-        <string>gcedilla</string>
         <string>uni01F5</string>
         <string>h</string>
         <string>hcircumflex</string>
@@ -344,7 +303,6 @@
         <string>dotaccentcmb</string>
         <string>uni030F</string>
         <string>uni0311</string>
-        <string>uni0326</string>
         <string>zero</string>
         <string>one</string>
         <string>two</string>
@@ -443,11 +401,101 @@
         <string>uni00A0</string>
         <string>uni00AD</string>
         <string>foundryicon</string>
+        <string>Dcroat</string>
+        <string>Gcommaaccent</string>
+        <string>Idotaccent</string>
+        <string>Rcommaaccent</string>
+        <string>dcroat</string>
+        <string>gcommaaccent</string>
+        <string>fi</string>
+        <string>fl</string>
+        <string>pi</string>
+        <string>florin</string>
+        <string>approxequal</string>
+        <string>greaterequal</string>
+        <string>infinity</string>
+        <string>integral</string>
+        <string>lessequal</string>
+        <string>notequal</string>
+        <string>partialdiff</string>
+        <string>perthousand</string>
+        <string>product</string>
+        <string>radical</string>
+        <string>summation</string>
+        <string>uni00B5</string>
+        <string>uni2126</string>
+        <string>uni2206</string>
+        <string>uni2215</string>
+        <string>uni2219</string>
+        <string>lozenge</string>
+        <string>dagger</string>
+        <string>daggerdbl</string>
+        <string>estimated</string>
+        <string>uni2113</string>
+        <string>commaaccent</string>
+        <string>uni02C9</string>
       </array>
-    <key>com.hodefoting.kernagic.1.0</key>
-      <string>gap=0.160000 snap=20.000000^</string>
+    <key>com.schriftgestaltung.fontMasterID</key>
+      <string>97F6A72F-75C9-4005-877B-5FF286A1C934</string>
+    <key>com.schriftgestaltung.useNiceNames</key>
+      <false/>
     <key>com.typemytype.robofont.layerOrder</key>
       <array>
       </array>
+    <key>com.schriftgestaltung.width</key>
+      <string>Condensed</string>
+    <key>com.typemytype.robofont.sort</key>
+      <array>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>alphabetical</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>category</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>unicode</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>script</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>suffix</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+        <dict>
+    <key>allowPseudoUnicode</key>
+      <true/>
+    <key>type</key>
+      <string>decompositionBase</string>
+    <key>ascending</key>
+      <true/>
+      </dict>
+      </array>
+    <key>com.hodefoting.kernagic.1.0</key>
+      <string>gap=0.160000 snap=20.000000^</string>
     </dict>
 </plist>

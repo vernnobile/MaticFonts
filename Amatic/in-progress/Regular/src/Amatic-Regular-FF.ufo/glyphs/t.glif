@@ -4,6 +4,9 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="337" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="344" y="29" type="line"/>
       <point x="344" y="78"/>
       <point x="340" y="129"/>
@@ -56,30 +59,36 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1290</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>position</key>	    <integer>1298</integer>
+	    <key>width</key>	    <integer>43</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>294</integer>
+	    <integer>295</integer>
 	    <key>width</key>
-	    <integer>77</integer>
+	    <integer>2</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>340</integer>
+	    <integer>299</integer>
 	    <key>width</key>
-	    <integer>79</integer>
+	    <integer>66</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>145</integer>
+    <key>rstem</key>
+      <integer>382</integer>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

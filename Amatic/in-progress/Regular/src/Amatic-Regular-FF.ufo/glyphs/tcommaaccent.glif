@@ -3,7 +3,7 @@
   <advance width="700"/>
   <unicode hex="0163"/>
   <outline>
-    <component base="cedilla" xOffset="80" yOffset="51"/>
+    <component base="cedilla" xOffset="80.5115" yOffset="5.7"/>
     <component base="t"/>
   </outline>
   <lib>
@@ -13,50 +13,56 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-428</integer>
+	    <key>position</key>	    <integer>-443</integer>
 	    <key>width</key>	    <integer>55</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>23</integer>
+	    <key>position</key>	    <integer>8</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1290</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>position</key>	    <integer>1298</integer>
+	    <key>width</key>	    <integer>43</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>294</integer>
+	    <integer>295</integer>
 	    <key>width</key>
-	    <integer>77</integer>
+	    <integer>2</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>340</integer>
+	    <integer>299</integer>
 	    <key>width</key>
-	    <integer>79</integer>
+	    <integer>66</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>350</integer>
+	    <integer>304</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>475</integer>
+	    <integer>429</integer>
 	    <key>width</key>
 	    <integer>75</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

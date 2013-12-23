@@ -4,6 +4,9 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
+      <point x="346" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="179" y="25" type="curve"/>
       <point x="189" y="41" type="line"/>
       <point x="214" y="39"/>
@@ -45,9 +48,9 @@
       <point x="183" y="-4"/>
     </contour>
     <contour>
-      <point x="406" y="1313" type="curve"/>
+      <point x="406" y="1313" type="curve" smooth="yes"/>
       <point x="406" y="1311" type="line"/>
-      <point x="408" y="1311" type="line"/>
+      <point x="408" y="1311" type="line" smooth="yes"/>
       <point x="408" y="1313"/>
       <point x="408" y="1313"/>
     </contour>
@@ -71,27 +74,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>179</integer>
+	    <integer>90</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>408</integer>
+	    <integer>319</integer>
 	    <key>width</key>
 	    <integer>11</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>425</integer>
+	    <integer>336</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

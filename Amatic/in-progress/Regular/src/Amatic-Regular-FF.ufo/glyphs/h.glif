@@ -4,11 +4,14 @@
   <unicode hex="0068"/>
   <outline>
     <contour>
+      <point x="356" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="493" y="-2" type="curve"/>
       <point x="489" y="180"/>
       <point x="483" y="365"/>
       <point x="483" y="547" type="curve"/>
-      <point x="478" y="555" type="line"/>
+      <point x="478" y="555" type="line" smooth="yes"/>
       <point x="478" y="557"/>
       <point x="485" y="573"/>
       <point x="485" y="573" type="curve"/>
@@ -104,10 +107,6 @@
 	    <key>width</key>	    <integer>60</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1334</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
 	    <key>position</key>	    <integer>1354</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
@@ -116,27 +115,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>194</integer>
+	    <integer>119</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>458</integer>
+	    <integer>383</integer>
 	    <key>width</key>
 	    <integer>72</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>485</integer>
+	    <integer>410</integer>
 	    <key>width</key>
 	    <integer>71</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

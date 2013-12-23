@@ -4,7 +4,7 @@
   <unicode hex="1E84"/>
   <outline>
     <component base="W"/>
-    <component base="dieresis" xOffset="15" yOffset="742"/>
+    <component base="dieresis" xOffset="24" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -25,40 +25,46 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>194</integer>
+	    <integer>185</integer>
 	    <key>width</key>
 	    <integer>90</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>285</integer>
-	    <key>width</key>
-	    <integer>72</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>654</integer>
-	    <key>width</key>
-	    <integer>95</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>785</integer>
+	    <integer>266</integer>
 	    <key>width</key>
 	    <integer>92</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>787</integer>
+	    <integer>645</integer>
+	    <key>width</key>
+	    <integer>95</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>776</integer>
+	    <key>width</key>
+	    <integer>92</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>778</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -107,27 +107,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>323</integer>
+	    <integer>262</integer>
 	    <key>width</key>
 	    <integer>57</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>335</integer>
+	    <integer>274</integer>
 	    <key>width</key>
 	    <integer>78</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>352</integer>
+	    <integer>291</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0128"/>
   <outline>
     <component base="I"/>
-    <component base="tilde" xOffset="274" yOffset="1571"/>
+    <component base="tilde" xOffset="-116" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -21,45 +21,49 @@
 	    <key>width</key>	    <integer>64</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1693</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>position</key>	    <integer>1675</integer>
+	    <key>width</key>	    <integer>54</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1822</integer>
-	    <key>width</key>	    <integer>49</integer>
+	    <key>position</key>	    <integer>1802</integer>
+	    <key>width</key>	    <integer>48</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>51</integer>
+	    <integer>-42</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>259</integer>
+	    <integer>172</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>289</integer>
+	    <integer>202</integer>
 	    <key>width</key>
 	    <integer>68</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>427</integer>
+	    <integer>334</integer>
 	    <key>width</key>
 	    <integer>56</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

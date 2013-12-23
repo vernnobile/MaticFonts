@@ -3,7 +3,7 @@
   <advance width="640"/>
   <unicode hex="1E57"/>
   <outline>
-    <component base="dotaccentcmb" xOffset="44" yOffset="345"/>
+    <component base="dotaccent" xOffset="74" yOffset="551"/>
     <component base="p"/>
   </outline>
   <lib>
@@ -29,33 +29,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>175</integer>
+	    <integer>106</integer>
 	    <key>width</key>
 	    <integer>74</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>192</integer>
+	    <integer>123</integer>
 	    <key>width</key>
 	    <integer>65</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>247</integer>
+	    <integer>178</integer>
 	    <key>width</key>
 	    <integer>102</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>419</integer>
+	    <integer>350</integer>
 	    <key>width</key>
 	    <integer>66</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

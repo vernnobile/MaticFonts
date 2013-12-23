@@ -4,7 +4,7 @@
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="173" y="20" type="curve"/>
+      <point x="173" y="20" type="curve" smooth="yes"/>
       <point x="171" y="40"/>
       <point x="171" y="61"/>
       <point x="171" y="84" type="curve" smooth="yes"/>
@@ -30,7 +30,7 @@
       <point x="417" y="1315" type="curve"/>
       <point x="417" y="1315"/>
       <point x="415" y="1311"/>
-      <point x="415" y="1309" type="curve"/>
+      <point x="415" y="1309" type="curve" smooth="yes"/>
       <point x="468" y="1225"/>
       <point x="479" y="1149"/>
       <point x="479" y="1038" type="curve" smooth="yes"/>
@@ -77,7 +77,7 @@
       <point x="248" y="277"/>
     </contour>
     <contour>
-      <point x="251" y="766" type="line"/>
+      <point x="251" y="766" type="line" smooth="yes"/>
       <point x="253" y="758"/>
       <point x="257" y="747"/>
       <point x="259" y="739" type="curve"/>
@@ -126,33 +126,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>171</integer>
+	    <integer>102</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>200</integer>
+	    <integer>131</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>409</integer>
+	    <integer>340</integer>
 	    <key>width</key>
 	    <integer>70</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>428</integer>
+	    <integer>359</integer>
 	    <key>width</key>
 	    <integer>63</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

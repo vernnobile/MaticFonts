@@ -4,7 +4,7 @@
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis" xOffset="-73" yOffset="722"/>
+    <component base="dieresis" xOffset="-66" yOffset="731"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>53</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1693</integer>
+	    <key>position</key>	    <integer>1673</integer>
 	    <key>width</key>	    <integer>102</integer>
 	  </dict>
 	</array>
@@ -29,33 +29,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>106</integer>
+	    <integer>25</integer>
 	    <key>width</key>
 	    <integer>90</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>171</integer>
+	    <integer>91</integer>
 	    <key>width</key>
 	    <integer>61</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>566</integer>
+	    <integer>485</integer>
 	    <key>width</key>
 	    <integer>95</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>606</integer>
+	    <integer>526</integer>
 	    <key>width</key>
 	    <integer>60</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -98,10 +98,10 @@
       <point x="136" y="727"/>
     </contour>
     <contour>
-      <point x="763" y="629" type="line"/>
+      <point x="763" y="629" type="line" smooth="yes"/>
       <point x="765" y="629"/>
       <point x="765" y="629"/>
-      <point x="765" y="627" type="curve"/>
+      <point x="765" y="627" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="312" y="1315" type="line"/>
@@ -146,33 +146,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>91</integer>
+	    <integer>92</integer>
 	    <key>width</key>
 	    <integer>45</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>259</integer>
+	    <integer>260</integer>
 	    <key>width</key>
 	    <integer>49</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>435</integer>
+	    <integer>436</integer>
 	    <key>width</key>
 	    <integer>45</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>646</integer>
+	    <integer>647</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -90,6 +90,7 @@
       <point x="825" y="976"/>
       <point x="716" y="975"/>
       <point x="682" y="975" type="curve" smooth="yes"/>
+      <point x="676" y="975" type="line"/>
       <point x="518" y="975" type="line"/>
       <point x="518" y="938"/>
       <point x="514" y="901"/>
@@ -143,27 +144,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>393</integer>
+	    <integer>424</integer>
 	    <key>width</key>
 	    <integer>88</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>420</integer>
+	    <integer>451</integer>
 	    <key>width</key>
 	    <integer>61</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>446</integer>
+	    <integer>477</integer>
 	    <key>width</key>
 	    <integer>72</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

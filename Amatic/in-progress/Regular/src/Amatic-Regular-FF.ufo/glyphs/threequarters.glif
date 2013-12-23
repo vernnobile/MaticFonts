@@ -221,10 +221,6 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1374</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
 	    <key>position</key>	    <integer>1491</integer>
 	    <key>width</key>	    <integer>49</integer>
 	  </dict>
@@ -237,63 +233,67 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>196</integer>
+	    <integer>377</integer>
 	    <key>width</key>
 	    <integer>55</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>274</integer>
+	    <integer>455</integer>
 	    <key>width</key>
 	    <integer>55</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1068</integer>
+	    <integer>1249</integer>
 	    <key>width</key>
 	    <integer>58</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1079</integer>
+	    <integer>1260</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1099</integer>
+	    <integer>1280</integer>
 	    <key>width</key>
 	    <integer>51</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1218</integer>
+	    <integer>1399</integer>
 	    <key>width</key>
 	    <integer>57</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1234</integer>
+	    <integer>1415</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1261</integer>
+	    <integer>1442</integer>
 	    <key>width</key>
 	    <integer>47</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1269</integer>
+	    <integer>1450</integer>
 	    <key>width</key>
 	    <integer>63</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

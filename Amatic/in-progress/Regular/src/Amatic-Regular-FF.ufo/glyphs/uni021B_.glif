@@ -3,8 +3,8 @@
   <advance width="700"/>
   <unicode hex="021B"/>
   <outline>
+    <component base="commaaccent" xOffset="52.9237" yOffset="-8"/>
     <component base="t"/>
-    <component base="uni0326" xOffset="76" yOffset="-8"/>
   </outline>
   <lib>
     <dict>
@@ -13,39 +13,39 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-448</integer>
-	    <key>width</key>	    <integer>338</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1290</integer>
-	    <key>width</key>	    <integer>53</integer>
+	    <key>position</key>	    <integer>1298</integer>
+	    <key>width</key>	    <integer>43</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>294</integer>
-	    <key>width</key>
-	    <integer>77</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>340</integer>
-	    <key>width</key>
-	    <integer>79</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>414</integer>
+	    <integer>285</integer>
 	    <key>width</key>
 	    <integer>86</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>295</integer>
+	    <key>width</key>
+	    <integer>2</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>299</integer>
+	    <key>width</key>
+	    <integer>66</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

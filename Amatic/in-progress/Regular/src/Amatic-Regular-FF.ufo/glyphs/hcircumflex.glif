@@ -3,7 +3,7 @@
   <advance width="740"/>
   <unicode hex="0125"/>
   <outline>
-    <component base="circumflex" xOffset="18" yOffset="548"/>
+    <component base="circumflex" xOffset="44" yOffset="551"/>
     <component base="h"/>
   </outline>
   <lib>
@@ -21,15 +21,11 @@
 	    <key>width</key>	    <integer>60</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1334</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
 	    <key>position</key>	    <integer>1354</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1498</integer>
+	    <key>position</key>	    <integer>1478</integer>
 	    <key>width</key>	    <integer>383</integer>
 	  </dict>
 	</array>
@@ -37,39 +33,43 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>189</integer>
+	    <integer>113</integer>
 	    <key>width</key>
 	    <integer>72</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>194</integer>
+	    <integer>119</integer>
 	    <key>width</key>
 	    <integer>53</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>406</integer>
+	    <integer>330</integer>
 	    <key>width</key>
 	    <integer>64</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>458</integer>
+	    <integer>383</integer>
 	    <key>width</key>
 	    <integer>72</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>485</integer>
+	    <integer>410</integer>
 	    <key>width</key>
 	    <integer>71</integer>
 	  </dict>
 	</array>
       </dict>
     <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
     <key>lstem</key>
       <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>
