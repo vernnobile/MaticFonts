@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="cdotaccent" format="1">
-  <advance width="918"></advance>
-  <unicode hex="010B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="1">
+  <advance width="774"/>
+  <unicode hex="010B"/>
   <outline>
-    <component base="c" xOffset="434.658813" yOffset="0.000000" ></component>
-    <component base="uni0307" xOffset="451.717651" yOffset="151.000000" ></component>
+    <component base="c"/>
+    <component base="uni0307" xOffset="113" yOffset="110"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,7 +21,7 @@
 	    <key>width</key>	    <integer>106</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	</array>
@@ -32,18 +29,20 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>46</integer>
+	    <integer>174</integer>
 	    <key>width</key>
 	    <integer>131</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>144</integer>
+	    <integer>367</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

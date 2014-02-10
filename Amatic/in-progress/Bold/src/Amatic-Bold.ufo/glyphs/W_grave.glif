@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Wgrave" format="1">
-  <advance width="1008"></advance>
-  <unicode hex="1E80"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="1">
+  <advance width="1026"/>
+  <unicode hex="1E80"/>
   <outline>
-    <component base="W" xOffset="-240.070618" yOffset="0.000000" ></component>
-    <component base="grave" xOffset="-382.141174" yOffset="171.000000" ></component>
+    <component base="W"/>
+    <component base="grave" xOffset="224" yOffset="171"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1368</integer>
-	    <key>width</key>	    <integer>20</integer>
+	    <key>position</key>	    <integer>-29</integer>
+	    <key>width</key>	    <integer>22</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1714</integer>
@@ -28,30 +25,32 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>62</integer>
-	    <key>width</key>
-	    <integer>393</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>218</integer>
+	    <integer>270</integer>
 	    <key>width</key>
 	    <integer>134</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>357</integer>
+	    <integer>409</integer>
 	    <key>width</key>
 	    <integer>127</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>736</integer>
+	    <integer>478</integer>
+	    <key>width</key>
+	    <integer>393</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>788</integer>
 	    <key>width</key>
 	    <integer>116</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

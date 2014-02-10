@@ -4,6 +4,9 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
+      <point x="356" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="186" y="68" type="curve"/>
       <point x="179" y="76" type="line"/>
       <point x="189" y="103"/>
@@ -87,63 +90,50 @@
       <point x="184" y="32"/>
       <point x="186" y="52"/>
     </contour>
-    <contour>
-      <point x="356" y="1356" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-27</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>717</integer>
-            <key>width</key>
-            <integer>90</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>743</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1239</integer>
-            <key>width</key>
-            <integer>98</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1278</integer>
-            <key>width</key>
-            <integer>72</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>109</integer>
-            <key>width</key>
-            <integer>69</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>717</integer>
+	    <key>width</key>	    <integer>90</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>743</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1239</integer>
+	    <key>width</key>	    <integer>98</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1278</integer>
+	    <key>width</key>	    <integer>72</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>109</integer>
+	    <key>width</key>
+	    <integer>69</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

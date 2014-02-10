@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0208" format="1">
-  <advance width="1062"></advance>
-  <unicode hex="0208"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0208" format="1">
+  <advance width="702"/>
+  <unicode hex="0208"/>
   <outline>
-    <component base="I" xOffset="-984.094116" yOffset="0.000000" ></component>
-    <component base="uni030F" xOffset="-1179.094116" yOffset="1756.000000" ></component>
+    <component base="I"/>
+    <component base="uni030F" xOffset="-211" yOffset="1715"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,7 +21,7 @@
 	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1748</integer>
+	    <key>position</key>	    <integer>1707</integer>
 	    <key>width</key>	    <integer>398</integer>
 	  </dict>
 	</array>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-159</integer>
+	    <integer>-61</integer>
 	    <key>width</key>
 	    <integer>592</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>133</integer>
+	    <integer>247</integer>
 	    <key>width</key>
 	    <integer>93</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>171</integer>
+	    <integer>285</integer>
 	    <key>width</key>
 	    <integer>105</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

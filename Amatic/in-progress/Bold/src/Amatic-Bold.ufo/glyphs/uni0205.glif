@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0205" format="1">
-  <advance width="972"></advance>
-  <unicode hex="0205"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0205" format="1">
+  <advance width="720"/>
+  <unicode hex="0205"/>
   <outline>
-    <component base="e" xOffset="-984.306030" yOffset="0.000000" ></component>
-    <component base="uni030F" xOffset="-1117.835327" yOffset="1549.000000" ></component>
+    <component base="e"/>
+    <component base="uni030F" xOffset="-335" yOffset="1508"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,7 +21,7 @@
 	    <key>width</key>	    <integer>107</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>398</integer>
 	  </dict>
 	</array>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-102</integer>
+	    <integer>-185</integer>
 	    <key>width</key>
 	    <integer>592</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>72</integer>
+	    <integer>190</integer>
 	    <key>width</key>
 	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>75</integer>
+	    <integer>193</integer>
 	    <key>width</key>
 	    <integer>331</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="onequarter" format="1">
-  <advance width="1566"></advance>
-  <unicode hex="00BC"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1566"/>
+  <unicode hex="00BC"/>
   <outline>
-    <component base="four" xOffset="16289.140625" yOffset="0.000000" ></component>
-    <component base="one" xOffset="15189.082031" yOffset="0.000000" ></component>
-    <component base="slash" xOffset="15735.329102" yOffset="0.000000" ></component>
+    <component base="four" xOffset="16289"/>
+    <component base="one" xOffset="15189"/>
+    <component base="slash" xOffset="15735"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-54</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>-38</integer>
 	    <key>width</key>	    <integer>21</integer>
@@ -49,54 +50,56 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>152</integer>
+	    <integer>15464</integer>
 	    <key>width</key>
 	    <integer>85</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>214</integer>
+	    <integer>15526</integer>
 	    <key>width</key>
 	    <integer>98</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>982</integer>
+	    <integer>16293</integer>
 	    <key>width</key>
 	    <integer>57</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1160</integer>
+	    <integer>16471</integer>
 	    <key>width</key>
 	    <integer>102</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1191</integer>
+	    <integer>16502</integer>
 	    <key>width</key>
 	    <integer>94</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1340</integer>
+	    <integer>16651</integer>
 	    <key>width</key>
 	    <integer>100</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1356</integer>
+	    <integer>16667</integer>
 	    <key>width</key>
 	    <integer>89</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1358</integer>
+	    <integer>16669</integer>
 	    <key>width</key>
 	    <integer>113</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

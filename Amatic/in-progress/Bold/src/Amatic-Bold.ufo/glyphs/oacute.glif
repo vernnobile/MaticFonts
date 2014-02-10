@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="oacute" format="1">
-  <advance width="1026"></advance>
-  <unicode hex="00F3"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="1">
+  <advance width="900"/>
+  <unicode hex="00F3"/>
   <outline>
-    <component base="acute" xOffset="651.282410" yOffset="250.000000" ></component>
-    <component base="o" xOffset="634.564697" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="91" yOffset="209"/>
+    <component base="o"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,7 +21,7 @@
 	    <key>width</key>	    <integer>109</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>286</integer>
 	  </dict>
 	</array>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>51</integer>
+	    <integer>176</integer>
 	    <key>width</key>
 	    <integer>111</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>90</integer>
+	    <integer>289</integer>
 	    <key>width</key>
 	    <integer>363</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>478</integer>
+	    <integer>603</integer>
 	    <key>width</key>
 	    <integer>106</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

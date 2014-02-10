@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="zdotaccent" format="1">
-  <advance width="918"></advance>
-  <unicode hex="017C"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="738"/>
+  <unicode hex="017C"/>
   <outline>
-    <component base="uni0307" xOffset="485.694092" yOffset="151.000000" ></component>
-    <component base="z" xOffset="490.729370" yOffset="0.000000" ></component>
+    <component base="uni0307" xOffset="135" yOffset="110"/>
+    <component base="z"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-4</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>18</integer>
 	    <key>width</key>	    <integer>87</integer>
@@ -24,7 +25,7 @@
 	    <key>width</key>	    <integer>115</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	</array>
@@ -32,18 +33,20 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>41</integer>
+	    <integer>166</integer>
 	    <key>width</key>
 	    <integer>409</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>125</integer>
+	    <integer>389</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="scaron" format="1">
-  <advance width="828"></advance>
-  <unicode hex="0161"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="1">
+  <advance width="720"/>
+  <unicode hex="0161"/>
   <outline>
-    <component base="caron" xOffset="1.423523" yOffset="616.000000" ></component>
-    <component base="s" xOffset="67.423523" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="6" yOffset="575"/>
+    <component base="s"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,11 +21,11 @@
 	    <key>width</key>	    <integer>120</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1544</integer>
+	    <key>position</key>	    <integer>1503</integer>
 	    <key>width</key>	    <integer>428</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1952</integer>
+	    <key>position</key>	    <integer>1911</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
@@ -36,19 +33,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-17</integer>
-	    <key>width</key>
-	    <integer>310</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>50</integer>
+	    <integer>191</integer>
 	    <key>width</key>
 	    <integer>100</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>295</integer>
+	    <integer>196</integer>
+	    <key>width</key>
+	    <integer>310</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>436</integer>
 	    <key>width</key>
 	    <integer>100</integer>
 	  </dict>

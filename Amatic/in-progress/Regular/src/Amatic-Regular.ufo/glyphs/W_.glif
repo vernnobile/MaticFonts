@@ -4,6 +4,9 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
+      <point x="476" y="1536" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="357" y="90" type="line"/>
       <point x="376" y="284"/>
       <point x="443" y="1030"/>
@@ -101,53 +104,49 @@
       <point x="357" y="20"/>
       <point x="357" y="54" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="476" y="1536" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-27</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>266</integer>
-            <key>width</key>
-            <integer>92</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>776</integer>
-            <key>width</key>
-            <integer>92</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>778</integer>
-            <key>width</key>
-            <integer>70</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>266</integer>
+	    <key>width</key>
+	    <integer>92</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>776</integer>
+	    <key>width</key>
+	    <integer>92</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>778</integer>
+	    <key>width</key>
+	    <integer>70</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="1">
+  <advance width="756"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="R"/>
+    <component base="caron" xOffset="-119" yOffset="779"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-13</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1537</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1707</integer>
+	    <key>width</key>	    <integer>428</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>2115</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>71</integer>
+	    <key>width</key>
+	    <integer>310</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>198</integer>
+	    <key>width</key>
+	    <integer>101</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>397</integer>
+	    <key>width</key>
+	    <integer>113</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>502</integer>
+	    <key>width</key>
+	    <integer>124</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

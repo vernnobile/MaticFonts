@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="ygrave" format="1">
-  <advance width="774"></advance>
-  <unicode hex="1EF3"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave" format="1">
+  <advance width="774"/>
+  <unicode hex="1EF3"/>
   <outline>
-    <component base="grave" xOffset="-648.552917" yOffset="-43.000000" ></component>
-    <component base="y" xOffset="-568.517639" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="-216" yOffset="-43"/>
+    <component base="y"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-28</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1342</integer>
 	    <key>width</key>	    <integer>20</integer>
@@ -28,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>39</integer>
+	    <integer>38</integer>
 	    <key>width</key>
 	    <integer>393</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>230</integer>
+	    <integer>366</integer>
 	    <key>width</key>
 	    <integer>125</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>254</integer>
+	    <integer>390</integer>
 	    <key>width</key>
 	    <integer>101</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

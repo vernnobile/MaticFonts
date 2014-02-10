@@ -4,6 +4,9 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
+      <point x="416" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="285" y="-18" type="curve"/>
       <point x="289" y="-20" type="line"/>
       <point x="262" y="-20"/>
@@ -65,45 +68,40 @@
       <point x="402" y="-18"/>
       <point x="342" y="-18"/>
     </contour>
-    <contour>
-      <point x="416" y="1356" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>125</integer>
-            <key>width</key>
-            <integer>57</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>135</integer>
-            <key>width</key>
-            <integer>49</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>61</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>125</integer>
+	    <key>width</key>
+	    <integer>57</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>135</integer>
+	    <key>width</key>
+	    <integer>49</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>237</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>237</integer>
       </dict>
     </dict>
   </lib>

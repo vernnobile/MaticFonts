@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="ydieresis" format="1">
-  <advance width="738"></advance>
-  <unicode hex="00FF"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="774"/>
+  <unicode hex="00FF"/>
   <outline>
-    <component base="dieresis" xOffset="-563.564758" yOffset="587.000000" ></component>
-    <component base="y" xOffset="-544.376526" yOffset="0.000000" ></component>
+    <component base="dieresis" xOffset="157" yOffset="546"/>
+    <component base="y"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
+	    <key>position</key>	    <integer>-28</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1342</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>141</integer>
 	  </dict>
 	</array>
@@ -28,25 +29,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>27</integer>
+	    <integer>339</integer>
 	    <key>width</key>
 	    <integer>141</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>230</integer>
+	    <integer>366</integer>
 	    <key>width</key>
 	    <integer>125</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>254</integer>
+	    <integer>390</integer>
 	    <key>width</key>
 	    <integer>101</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>307</integer>
+	    <integer>619</integer>
 	    <key>width</key>
 	    <integer>141</integer>
 	  </dict>

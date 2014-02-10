@@ -4,6 +4,9 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
+      <point x="296" y="1536" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="289" y="70" type="line"/>
       <point x="289" y="429"/>
       <point x="268" y="765"/>
@@ -59,51 +62,44 @@
       <point x="185" y="70"/>
       <point x="209" y="70" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="296" y="1536" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>10</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1484</integer>
-            <key>width</key>
-            <integer>64</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>172</integer>
-            <key>width</key>
-            <integer>47</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>202</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>10</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1484</integer>
+	    <key>width</key>	    <integer>64</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>172</integer>
+	    <key>width</key>
+	    <integer>47</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>202</integer>
+	    <key>width</key>
+	    <integer>68</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

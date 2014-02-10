@@ -1,67 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
-  <advance width="792"></advance>
-  <unicode hex="00A8"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="720"/>
+  <unicode hex="00A8"/>
   <outline>
-    <contour>
-      <point x="241" y="954" type="curve" smooth="yes"></point>
-      <point x="202" y="954"></point>
-      <point x="182" y="984"></point>
-      <point x="182" y="1021" type="curve" smooth="yes"></point>
-      <point x="182" y="1061"></point>
-      <point x="211" y="1095"></point>
-      <point x="252" y="1095" type="curve" smooth="yes"></point>
-      <point x="290" y="1095"></point>
-      <point x="323" y="1065"></point>
-      <point x="323" y="1026" type="curve" smooth="yes"></point>
-      <point x="323" y="984"></point>
-      <point x="280" y="954"></point>
-    </contour>
-    <contour>
-      <point x="462" y="1023" type="curve" smooth="yes"></point>
-      <point x="462" y="1062"></point>
-      <point x="496" y="1098"></point>
-      <point x="535" y="1098" type="curve" smooth="yes"></point>
-      <point x="572" y="1098"></point>
-      <point x="603" y="1061"></point>
-      <point x="603" y="1025" type="curve" smooth="yes"></point>
-      <point x="603" y="983"></point>
-      <point x="566" y="954"></point>
-      <point x="526" y="954" type="curve" smooth="yes"></point>
-      <point x="490" y="954"></point>
-      <point x="462" y="988"></point>
-    </contour>
+    <component base="caron" xOffset="-30" yOffset="575"/>
+    <component base="s"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>954</integer>
-	    <key>width</key>	    <integer>141</integer>
+	    <key>position</key>	    <integer>-23</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1261</integer>
+	    <key>width</key>	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1503</integer>
+	    <key>width</key>	    <integer>428</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1911</integer>
+	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>105</integer>
+	    <integer>160</integer>
 	    <key>width</key>
-	    <integer>141</integer>
+	    <integer>310</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>385</integer>
+	    <integer>191</integer>
 	    <key>width</key>
-	    <integer>141</integer>
+	    <integer>100</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>436</integer>
+	    <key>width</key>
+	    <integer>100</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

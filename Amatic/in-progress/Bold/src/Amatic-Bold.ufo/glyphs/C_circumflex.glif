@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircumflex" format="1">
+  <advance width="918"/>
+  <unicode hex="0108"/>
+  <outline>
+    <component base="C"/>
+    <component base="circumflex" xOffset="93" yOffset="804"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-33</integer>
+	    <key>width</key>	    <integer>126</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1443</integer>
+	    <key>width</key>	    <integer>122</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1707</integer>
+	    <key>width</key>	    <integer>416</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>184</integer>
+	    <key>width</key>
+	    <integer>109</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>275</integer>
+	    <key>width</key>
+	    <integer>337</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

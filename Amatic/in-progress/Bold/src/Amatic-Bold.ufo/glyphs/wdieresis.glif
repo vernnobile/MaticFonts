@@ -1,81 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="wdieresis" format="1">
-  <advance width="990"></advance>
-  <unicode hex="1E85"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="1">
+  <advance width="990"/>
+  <unicode hex="1E85"/>
   <outline>
-    <component base="dieresis" xOffset="-216.894150" yOffset="546.000000" ></component>
-    <component base="w" xOffset="-296.235291" yOffset="0.000000" ></component>
+    <component base="dieresis" xOffset="90" yOffset="546"/>
+    <component base="w"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1357</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1500</integer>
-            <key>width</key>
-            <integer>141</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>31</integer>
-            <key>width</key>
-            <integer>125</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>167</integer>
-            <key>width</key>
-            <integer>141</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>334</integer>
-            <key>width</key>
-            <integer>116</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>447</integer>
-            <key>width</key>
-            <integer>141</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>515</integer>
-            <key>width</key>
-            <integer>138</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>610</integer>
-            <key>width</key>
-            <integer>106</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>641</integer>
-            <key>width</key>
-            <integer>103</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-43</integer>
+	    <key>width</key>	    <integer>45</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1357</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1500</integer>
+	    <key>width</key>	    <integer>141</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>126</integer>
+	    <key>width</key>
+	    <integer>125</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>272</integer>
+	    <key>width</key>
+	    <integer>141</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>429</integer>
+	    <key>width</key>
+	    <integer>116</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>552</integer>
+	    <key>width</key>
+	    <integer>141</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>610</integer>
+	    <key>width</key>
+	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>705</integer>
+	    <key>width</key>
+	    <integer>106</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>736</integer>
+	    <key>width</key>
+	    <integer>108</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

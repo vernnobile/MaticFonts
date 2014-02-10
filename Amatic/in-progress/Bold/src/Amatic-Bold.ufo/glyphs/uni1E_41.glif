@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni1E41" format="1">
-  <advance width="1530"></advance>
-  <unicode hex="1E41"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E41" format="1">
+  <advance width="1206"/>
+  <unicode hex="1E41"/>
   <outline>
-    <component base="dotaccent" xOffset="2100.964844" yOffset="1398.000000" ></component>
-    <component base="m" xOffset="1866.811890" yOffset="0.000000" ></component>
+    <component base="m"/>
+    <component base="uni0307" xOffset="267" yOffset="110"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -28,36 +25,38 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>58</integer>
+	    <integer>150</integer>
 	    <key>width</key>
 	    <integer>123</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>365</integer>
+	    <integer>521</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>795</integer>
+	    <integer>887</integer>
 	    <key>width</key>
 	    <integer>116</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>824</integer>
+	    <integer>916</integer>
 	    <key>width</key>
 	    <integer>133</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>825</integer>
+	    <integer>917</integer>
 	    <key>width</key>
 	    <integer>107</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

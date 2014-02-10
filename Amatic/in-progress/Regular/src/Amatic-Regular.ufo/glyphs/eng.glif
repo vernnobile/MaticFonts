@@ -104,55 +104,53 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-4</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>104</integer>
-            <key>width</key>
-            <integer>66</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>117</integer>
-            <key>width</key>
-            <integer>96</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>117</integer>
-            <key>width</key>
-            <integer>65</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>610</integer>
-            <key>width</key>
-            <integer>66</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>682</integer>
-            <key>width</key>
-            <integer>70</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-4</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>104</integer>
+	    <key>width</key>
+	    <integer>66</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>117</integer>
+	    <key>width</key>
+	    <integer>96</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>117</integer>
+	    <key>width</key>
+	    <integer>65</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>610</integer>
+	    <key>width</key>
+	    <integer>66</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>682</integer>
+	    <key>width</key>
+	    <integer>70</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

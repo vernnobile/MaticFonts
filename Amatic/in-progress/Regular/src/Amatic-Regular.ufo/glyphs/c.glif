@@ -4,6 +4,9 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
+      <point x="436" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="394" y="-33" type="line"/>
       <point x="359" y="-15"/>
       <point x="325" y="-15"/>
@@ -44,48 +47,38 @@
       <point x="482" y="-25"/>
       <point x="462" y="-33" type="curve"/>
     </contour>
-    <contour>
-      <point x="436" y="1356" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="389" y="0" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-33</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1303</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>96</integer>
-            <key>width</key>
-            <integer>70</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-33</integer>
+	    <key>width</key>	    <integer>68</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1303</integer>
+	    <key>width</key>	    <integer>61</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>96</integer>
+	    <key>width</key>
+	    <integer>70</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

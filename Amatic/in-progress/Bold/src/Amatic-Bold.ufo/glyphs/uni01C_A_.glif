@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01CA" format="1">
-  <advance width="1386"></advance>
-  <unicode hex="01CA"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CA" format="1">
+  <advance width="1692"/>
+  <unicode hex="01CA"/>
   <outline>
-    <component base="J" xOffset="11329.369141" yOffset="0.000000" ></component>
-    <component base="N" xOffset="10654.375977" yOffset="0.000000" ></component>
+    <component base="J" xOffset="972"/>
+    <component base="N"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-9</integer>
+	    <key>width</key>	    <integer>7</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1445</integer>
 	    <key>width</key>	    <integer>108</integer>
@@ -28,36 +29,38 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>67</integer>
+	    <integer>182</integer>
 	    <key>width</key>
 	    <integer>104</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>83</integer>
+	    <integer>198</integer>
 	    <key>width</key>
 	    <integer>117</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>548</integer>
+	    <integer>663</integer>
 	    <key>width</key>
 	    <integer>97</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>548</integer>
+	    <integer>663</integer>
 	    <key>width</key>
 	    <integer>122</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>955</integer>
+	    <integer>1366</integer>
 	    <key>width</key>
 	    <integer>110</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

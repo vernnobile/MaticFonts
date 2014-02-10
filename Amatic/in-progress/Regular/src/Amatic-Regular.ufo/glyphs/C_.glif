@@ -4,6 +4,9 @@
   <unicode hex="0043"/>
   <outline>
     <contour>
+      <point x="448" y="1536" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="173" y="877" type="curve" smooth="yes"/>
       <point x="173" y="950"/>
       <point x="171" y="1022"/>
@@ -50,48 +53,38 @@
       <point x="210" y="199"/>
       <point x="173" y="756"/>
     </contour>
-    <contour>
-      <point x="448" y="1536" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="464" y="0" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-33</integer>
-            <key>width</key>
-            <integer>80</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1495</integer>
-            <key>width</key>
-            <integer>70</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>94</integer>
-            <key>width</key>
-            <integer>54</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-33</integer>
+	    <key>width</key>	    <integer>80</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1495</integer>
+	    <key>width</key>	    <integer>70</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>94</integer>
+	    <key>width</key>
+	    <integer>54</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>389</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>389</integer>
       </dict>
     </dict>
   </lib>

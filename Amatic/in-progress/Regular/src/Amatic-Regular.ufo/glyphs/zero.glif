@@ -55,45 +55,44 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-14</integer>
-            <key>width</key>
-            <integer>47</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>56</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>115</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>469</integer>
-            <key>width</key>
-            <integer>49</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-14</integer>
+	    <key>width</key>	    <integer>47</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>100</integer>
+	    <key>width</key>
+	    <integer>56</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>115</integer>
+	    <key>width</key>
+	    <integer>61</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>469</integer>
+	    <key>width</key>
+	    <integer>49</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

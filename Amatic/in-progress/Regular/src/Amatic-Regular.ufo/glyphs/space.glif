@@ -2,16 +2,14 @@
 <glyph name="space" format="1">
   <advance width="700"/>
   <unicode hex="0020"/>
-  <outline>
-  </outline>
   <lib>
     <dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

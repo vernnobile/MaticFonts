@@ -1,77 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>1536</integer>
-	<key>capHeight</key>
-	<integer>1544</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2011-13 by vernon adams. All rights reserved. Font Software is licensed under the SIL Open Font License, Version
-1.1. This license is available with a FAQ at:
-http://scripts.sil.org/OFL</string>
-	<key>descender</key>
-	<integer>-512</integer>
+    <dict>
 	<key>familyName</key>
 	<string>Amatic</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>copyright</key>
+	<string>Digitized data Copyright (c) 2011-2013, vernon adams.</string>
+	<key>trademark</key>
+	<string>Amatic is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1349</integer>
+	<key>capHeight</key>
+	<integer>1544</integer>
+	<key>ascender</key>
+	<integer>1536</integer>
+	<key>descender</key>
+	<integer>-512</integer>
+	<key>italicAngle</key>
+	<real>0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/02/10 09:45:22</string>
+	<string>2014/02/10 18:13:47</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>code.newtypography.co.uk</string>
-	<key>openTypeNameLicenseURL</key>
-	<string>http://scripts.sil.org/OFL</string>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Newtypography</string>
+	<string>newtypography</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>newtypography.co.uk</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2013, vernon adams.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2.000</string>
 	<key>openTypeNamePreferedFamilyName</key>
 	<string>Amatic</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Amatic</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>3</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>NeWT</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2VendorID</key>
-	<string>NeWT</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>3</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2384</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-505</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2384</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>505</integer>
 	<key>postscriptFontName</key>
 	<string>Amatic</string>
 	<key>postscriptFullName</key>
 	<string>Amatic</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-	</array>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
+	<key>postscriptWeightName</key>
 	<string>Regular</string>
-	<key>trademark</key>
-	<string>Please refer to the Copyright section for the font trademark attribution notices.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>2</integer>
-	<key>versionMinor</key>
+	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>1350</integer>
-</dict>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+    </dict>
 </plist>

@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Scircumflex" format="1">
-  <advance width="828"></advance>
-  <unicode hex="015C"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scircumflex" format="1">
+  <advance width="774"/>
+  <unicode hex="015C"/>
   <outline>
-    <component base="S" xOffset="806.823608" yOffset="0.000000" ></component>
-    <component base="circumflex" xOffset="858.541199" yOffset="804.000000" ></component>
+    <component base="S"/>
+    <component base="circumflex" xOffset="52" yOffset="804"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>63</integer>
+	    <integer>183</integer>
 	    <key>width</key>
 	    <integer>117</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>114</integer>
+	    <integer>234</integer>
 	    <key>width</key>
 	    <integer>337</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>356</integer>
+	    <integer>476</integer>
 	    <key>width</key>
 	    <integer>121</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

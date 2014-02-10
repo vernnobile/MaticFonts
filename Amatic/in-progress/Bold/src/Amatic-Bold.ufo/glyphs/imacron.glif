@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="imacron" format="1">
-  <advance width="828"></advance>
-  <unicode hex="012B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="774"/>
+  <unicode hex="012B"/>
   <outline>
-    <component base="dotlessi" xOffset="-880.329346" yOffset="0.000000" ></component>
-    <component base="macron" xOffset="-940.517700" yOffset="841.000000" ></component>
+    <component base="dotlessi"/>
+    <component base="macron" xOffset="-91" yOffset="910"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>16</integer>
 	    <key>width</key>	    <integer>114</integer>
@@ -24,26 +25,28 @@
 	    <key>width</key>	    <integer>102</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
-	    <key>width</key>	    <integer>104</integer>
+	    <key>position</key>	    <integer>1500</integer>
+	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-19</integer>
+	    <integer>67</integer>
 	    <key>width</key>
-	    <integer>442</integer>
+	    <integer>572</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>174</integer>
+	    <integer>307</integer>
 	    <key>width</key>
 	    <integer>112</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

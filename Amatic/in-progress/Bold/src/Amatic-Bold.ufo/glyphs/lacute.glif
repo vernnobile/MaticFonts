@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="lacute" format="1">
-  <advance width="846"></advance>
-  <unicode hex="013A"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="1">
+  <advance width="684"/>
+  <unicode hex="013A"/>
   <outline>
-    <component base="acute" xOffset="50.352997" yOffset="250.000000" ></component>
-    <component base="l" xOffset="131.447021" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="14" yOffset="209"/>
+    <component base="l"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-28</integer>
+	    <key>width</key>	    <integer>16</integer>
+	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>-9</integer>
 	    <key>width</key>	    <integer>87</integer>
@@ -24,7 +25,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>286</integer>
 	  </dict>
 	</array>
@@ -32,24 +33,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-6</integer>
-	    <key>width</key>
-	    <integer>363</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>67</integer>
+	    <integer>190</integer>
 	    <key>width</key>
 	    <integer>109</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>93</integer>
+	    <integer>212</integer>
+	    <key>width</key>
+	    <integer>363</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>216</integer>
 	    <key>width</key>
 	    <integer>91</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

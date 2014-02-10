@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni1E60" format="1">
-  <advance width="846"></advance>
-  <unicode hex="1E60"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E60" format="1">
+  <advance width="774"/>
+  <unicode hex="1E60"/>
   <outline>
-    <component base="S" xOffset="1125.800049" yOffset="0.000000" ></component>
-    <component base="dotaccent" xOffset="1229.047119" yOffset="1605.000000" ></component>
+    <component base="S"/>
+    <component base="uni0307" xOffset="72" yOffset="317"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>63</integer>
+	    <integer>183</integer>
 	    <key>width</key>
 	    <integer>117</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>206</integer>
+	    <integer>326</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>356</integer>
+	    <integer>476</integer>
 	    <key>width</key>
 	    <integer>121</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

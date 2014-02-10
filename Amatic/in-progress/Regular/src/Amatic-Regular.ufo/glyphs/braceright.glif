@@ -73,43 +73,37 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-51</integer>
-            <key>width</key>
-            <integer>49</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>717</integer>
-            <key>width</key>
-            <integer>37</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1495</integer>
-            <key>width</key>
-            <integer>49</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>184</integer>
-            <key>width</key>
-            <integer>47</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-51</integer>
+	    <key>width</key>	    <integer>49</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>717</integer>
+	    <key>width</key>	    <integer>37</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1495</integer>
+	    <key>width</key>	    <integer>49</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>184</integer>
+	    <key>width</key>
+	    <integer>47</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

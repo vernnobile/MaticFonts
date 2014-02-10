@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="kcommaaccent" format="1">
-  <advance width="918"></advance>
-  <unicode hex="0137"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent" format="1">
+  <advance width="864"/>
+  <unicode hex="0137"/>
   <outline>
-    <component base="k" xOffset="925.447083" yOffset="0.000000" ></component>
-    <component base="uni0326" xOffset="1036.599976" yOffset="-24.000000" ></component>
+    <component base="k"/>
+    <component base="uni0326" xOffset="73" yOffset="17"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-574</integer>
+	    <key>position</key>	    <integer>-533</integer>
 	    <key>width</key>	    <integer>376</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-35</integer>
+	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1337</integer>
@@ -28,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>66</integer>
+	    <integer>182</integer>
 	    <key>width</key>
 	    <integer>110</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>105</integer>
+	    <integer>221</integer>
 	    <key>width</key>
 	    <integer>124</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>250</integer>
+	    <integer>327</integer>
 	    <key>width</key>
 	    <integer>241</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

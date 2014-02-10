@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="aring" format="1">
-  <advance width="828"></advance>
-  <unicode hex="00E5"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="1">
+  <advance width="810"/>
+  <unicode hex="00E5"/>
   <outline>
-    <component base="a" xOffset="-280.188202" yOffset="0.000000" ></component>
-    <component base="ring" xOffset="-242.658829" yOffset="1378.000000" ></component>
+    <component base="a"/>
+    <component base="ring" xOffset="-35" yOffset="1398"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
+	    <key>position</key>	    <integer>-11</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1353</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1480</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>77</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1943</integer>
+	    <key>position</key>	    <integer>1963</integer>
 	    <key>width</key>	    <integer>69</integer>
 	  </dict>
 	</array>
@@ -32,25 +33,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>120</integer>
+	    <integer>139</integer>
 	    <key>width</key>
 	    <integer>76</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>405</integer>
+	    <integer>497</integer>
 	    <key>width</key>
 	    <integer>113</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>454</integer>
+	    <integer>546</integer>
 	    <key>width</key>
 	    <integer>125</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>578</integer>
+	    <integer>597</integer>
 	    <key>width</key>
 	    <integer>68</integer>
 	  </dict>

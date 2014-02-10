@@ -10,61 +10,53 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-18</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>709</integer>
-            <key>width</key>
-            <integer>51</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1313</integer>
-            <key>width</key>
-            <integer>53</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1479</integer>
-            <key>width</key>
-            <integer>239</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>102</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>208</integer>
-            <key>width</key>
-            <integer>299</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>322</integer>
-            <key>width</key>
-            <integer>55</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>709</integer>
+	    <key>width</key>	    <integer>51</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1313</integer>
+	    <key>width</key>	    <integer>53</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1479</integer>
+	    <key>width</key>	    <integer>239</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>102</integer>
+	    <key>width</key>
+	    <integer>58</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>208</integer>
+	    <key>width</key>
+	    <integer>299</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>322</integer>
+	    <key>width</key>
+	    <integer>55</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

@@ -4,6 +4,9 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
+      <point x="416" y="1356" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="262" y="315" type="curve" smooth="yes"/>
       <point x="246" y="315"/>
       <point x="250" y="307"/>
@@ -73,51 +76,42 @@
       <point x="299" y="615"/>
       <point x="264" y="431"/>
     </contour>
-    <contour>
-      <point x="416" y="1356" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-10</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>305</integer>
-            <key>width</key>
-            <integer>45</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1354</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>502</integer>
-            <key>width</key>
-            <integer>67</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-10</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>305</integer>
+	    <key>width</key>	    <integer>45</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1354</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>502</integer>
+	    <key>width</key>
+	    <integer>67</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

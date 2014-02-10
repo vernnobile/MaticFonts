@@ -51,49 +51,45 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-27</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1528</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>88</integer>
-            <key>width</key>
-            <integer>123</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>135</integer>
-            <key>width</key>
-            <integer>90</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>145</integer>
-            <key>width</key>
-            <integer>37</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1528</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>88</integer>
+	    <key>width</key>
+	    <integer>123</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>135</integer>
+	    <key>width</key>
+	    <integer>90</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>145</integer>
+	    <key>width</key>
+	    <integer>37</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
     </dict>
   </lib>

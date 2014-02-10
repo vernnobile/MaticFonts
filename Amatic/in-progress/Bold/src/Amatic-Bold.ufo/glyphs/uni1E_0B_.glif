@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni1E0B" format="1">
-  <advance width="1026"></advance>
-  <unicode hex="1E0B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E0B" format="1">
+  <advance width="846"/>
+  <unicode hex="1E0B"/>
   <outline>
-    <component base="d" xOffset="757.682373" yOffset="0.000000" ></component>
-    <component base="dotaccent" xOffset="831.023560" yOffset="1398.000000" ></component>
+    <component base="d"/>
+    <component base="uni0307" xOffset="42" yOffset="110"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -18,6 +15,10 @@
 	  <dict>
 	    <key>position</key>	    <integer>-12</integer>
 	    <key>width</key>	    <integer>104</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1333</integer>
+	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1500</integer>
@@ -28,30 +29,32 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>73</integer>
+	    <integer>184</integer>
 	    <key>width</key>
 	    <integer>143</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>79</integer>
+	    <integer>190</integer>
 	    <key>width</key>
 	    <integer>106</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>185</integer>
+	    <integer>296</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>438</integer>
+	    <integer>549</integer>
 	    <key>width</key>
 	    <integer>104</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

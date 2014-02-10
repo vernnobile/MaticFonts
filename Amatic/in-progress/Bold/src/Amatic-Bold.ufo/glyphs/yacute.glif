@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="yacute" format="1">
-  <advance width="936"></advance>
-  <unicode hex="00FD"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="774"/>
+  <unicode hex="00FD"/>
   <outline>
-    <component base="acute" xOffset="498.352966" yOffset="250.000000" ></component>
-    <component base="y" xOffset="506.729370" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="314" yOffset="209"/>
+    <component base="y"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
+	    <key>position</key>	    <integer>-28</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1342</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>286</integer>
 	  </dict>
 	</array>
@@ -28,21 +29,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>54</integer>
-	    <key>width</key>
-	    <integer>363</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>230</integer>
+	    <integer>366</integer>
 	    <key>width</key>
 	    <integer>125</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>254</integer>
+	    <integer>390</integer>
 	    <key>width</key>
 	    <integer>101</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>512</integer>
+	    <key>width</key>
+	    <integer>363</integer>
 	  </dict>
 	</array>
       </dict>

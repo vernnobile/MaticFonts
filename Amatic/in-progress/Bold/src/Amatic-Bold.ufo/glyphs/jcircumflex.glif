@@ -1,16 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="jcircumflex" format="1">
-  <advance width="846"></advance>
-  <unicode hex="0135"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="792"/>
+  <unicode hex="0135"/>
   <outline>
-    <component base="circumflex" xOffset="650.517639" yOffset="634.000000" ></component>
-    <component base="uni0237" xOffset="666.894165" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="30" yOffset="597"/>
+    <component base="uni0237"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
@@ -24,7 +21,7 @@
 	    <key>width</key>	    <integer>117</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1537</integer>
+	    <key>position</key>	    <integer>1500</integer>
 	    <key>width</key>	    <integer>416</integer>
 	  </dict>
 	</array>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>35</integer>
+	    <integer>212</integer>
 	    <key>width</key>
 	    <integer>337</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>222</integer>
+	    <integer>353</integer>
 	    <key>width</key>
 	    <integer>109</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>240</integer>
+	    <integer>371</integer>
 	    <key>width</key>
 	    <integer>112</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

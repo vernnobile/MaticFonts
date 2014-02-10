@@ -1,34 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="dotaccent" format="1">
-  <advance width="612"></advance>
-  <unicode hex="02D9"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="774"/>
+  <unicode hex="02D9"/>
   <outline>
-    <contour>
-      <point x="222" y="175" type="curve" smooth="yes"></point>
-      <point x="222" y="216"></point>
-      <point x="258" y="254"></point>
-      <point x="299" y="254" type="curve" smooth="yes"></point>
-      <point x="338" y="254"></point>
-      <point x="372" y="215"></point>
-      <point x="372" y="177" type="curve" smooth="yes"></point>
-      <point x="372" y="130"></point>
-      <point x="336" y="102"></point>
-      <point x="291" y="102" type="curve" smooth="yes"></point>
-      <point x="253" y="102"></point>
-      <point x="222" y="138"></point>
-    </contour>
+    <component base="uni0307" xOffset="-339" yOffset="-1268"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>102</integer>
+	    <key>position</key>	    <integer>122</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	</array>
@@ -36,12 +20,14 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>103</integer>
+	    <integer>-85</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

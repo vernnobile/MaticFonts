@@ -1,51 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="amacron" format="1">
-  <advance width="828"></advance>
-  <unicode hex="0101"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="amacron" format="1">
+  <advance width="810"/>
+  <unicode hex="0101"/>
   <outline>
-    <component base="a" xOffset="-336.164673" yOffset="0.000000" ></component>
-    <component base="macron" xOffset="-404.635315" yOffset="841.000000" ></component>
+    <component base="a"/>
+    <component base="macron" xOffset="-31" yOffset="910"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
+	    <key>position</key>	    <integer>-11</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1353</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1541</integer>
-	    <key>width</key>	    <integer>104</integer>
+	    <key>position</key>	    <integer>1500</integer>
+	    <key>width</key>	    <integer>111</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>14</integer>
+	    <integer>127</integer>
 	    <key>width</key>
-	    <integer>442</integer>
+	    <integer>572</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>405</integer>
+	    <integer>497</integer>
 	    <key>width</key>
 	    <integer>113</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>454</integer>
+	    <integer>546</integer>
 	    <key>width</key>
 	    <integer>125</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

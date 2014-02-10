@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="622"/>
+  <unicode hex="013B"/>
+  <outline>
+    <component base="L"/>
+    <component base="uni0326" xOffset="-80" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-521</integer>
+	    <key>width</key>	    <integer>376</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-23</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-4</integer>
+	    <key>width</key>	    <integer>119</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1551</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>174</integer>
+	    <key>width</key>
+	    <integer>241</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>182</integer>
+	    <key>width</key>
+	    <integer>112</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>210</integer>
+	    <key>width</key>
+	    <integer>315</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>223</integer>
+	    <key>width</key>
+	    <integer>102</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

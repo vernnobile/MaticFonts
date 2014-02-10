@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="tcaron" format="1">
-  <advance width="1098"></advance>
-  <unicode hex="0165"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="702"/>
+  <unicode hex="0165"/>
   <outline>
-    <component base="comma" xOffset="7864.247070" yOffset="1193.000000" ></component>
-    <component base="t" xOffset="7310.813965" yOffset="0.000000" ></component>
+    <component base="comma" xOffset="298" yOffset="1247"/>
+    <component base="t"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>991</integer>
+	    <key>position</key>	    <integer>1045</integer>
 	    <key>width</key>	    <integer>387</integer>
 	  </dict>
 	  <dict>
@@ -32,24 +29,26 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>197</integer>
+	    <integer>283</integer>
 	    <key>width</key>
 	    <integer>100</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>253</integer>
+	    <integer>339</integer>
 	    <key>width</key>
 	    <integer>112</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>722</integer>
+	    <integer>552</integer>
 	    <key>width</key>
 	    <integer>242</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>lstem</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

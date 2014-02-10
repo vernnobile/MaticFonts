@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C5" format="1">
+  <advance width="1620"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <component base="D"/>
+    <component base="zcaron" xOffset="882"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-5</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-4</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>18</integer>
+	    <key>width</key>	    <integer>87</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1244</integer>
+	    <key>width</key>	    <integer>115</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1429</integer>
+	    <key>width</key>	    <integer>123</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1500</integer>
+	    <key>width</key>	    <integer>428</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1908</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>142</integer>
+	    <key>width</key>
+	    <integer>126</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>219</integer>
+	    <key>width</key>
+	    <integer>98</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>594</integer>
+	    <key>width</key>
+	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1048</integer>
+	    <key>width</key>
+	    <integer>409</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1175</integer>
+	    <key>width</key>
+	    <integer>310</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
