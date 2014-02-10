@@ -85,7 +85,7 @@
       <point x="303" y="1296" type="curve" smooth="yes"/>
       <point x="303" y="1284"/>
       <point x="304" y="1271"/>
-      <point x="307" y="1259" type="curve"/>
+      <point x="307" y="1259" type="curve" smooth="yes"/>
       <point x="307" y="1252" type="line"/>
       <point x="311" y="1216"/>
       <point x="313" y="1179"/>
@@ -107,62 +107,56 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-38</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>480</integer>
-            <key>width</key>
-            <integer>96</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>507</integer>
-            <key>width</key>
-            <integer>94</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>182</integer>
-            <key>width</key>
-            <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>213</integer>
-            <key>width</key>
-            <integer>94</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>362</integer>
-            <key>width</key>
-            <integer>100</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>378</integer>
-            <key>width</key>
-            <integer>89</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>380</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-38</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>480</integer>
+	    <key>width</key>	    <integer>96</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>507</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>182</integer>
+	    <key>width</key>
+	    <integer>102</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>213</integer>
+	    <key>width</key>
+	    <integer>94</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>362</integer>
+	    <key>width</key>
+	    <integer>100</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>378</integer>
+	    <key>width</key>
+	    <integer>89</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>380</integer>
+	    <key>width</key>
+	    <integer>113</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>lstem</key>
+    <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

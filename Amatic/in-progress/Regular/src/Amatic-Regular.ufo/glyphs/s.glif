@@ -7,6 +7,13 @@
       <point x="346" y="1356" type="move" name="top"/>
     </contour>
     <contour>
+      <point x="406" y="1313" type="curve"/>
+      <point x="406" y="1311" type="line"/>
+      <point x="408" y="1311" type="line"/>
+      <point x="408" y="1313"/>
+      <point x="408" y="1313"/>
+    </contour>
+    <contour>
       <point x="179" y="25" type="curve"/>
       <point x="189" y="41" type="line"/>
       <point x="214" y="39"/>
@@ -46,13 +53,6 @@
       <point x="245" y="-25" type="line"/>
       <point x="220" y="-21"/>
       <point x="183" y="-4"/>
-    </contour>
-    <contour>
-      <point x="406" y="1313" type="curve"/>
-      <point x="406" y="1311" type="line"/>
-      <point x="408" y="1311" type="line"/>
-      <point x="408" y="1313"/>
-      <point x="408" y="1313"/>
     </contour>
   </outline>
   <lib>

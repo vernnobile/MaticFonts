@@ -2,11 +2,9 @@
 <glyph name="space" format="1">
   <advance width="774"/>
   <unicode hex="0020"/>
-  <outline>
-  </outline>
   <lib>
     <dict>
-      <key>lstem</key>
+    <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

@@ -502,8 +502,8 @@
     <key>com.typemytype.robofont.layerOrder</key>
       <array>
       </array>
-    <key>com.schriftgestaltung.width</key>
-      <string>Condensed</string>
+    <key>com.hodefoting.kernagic.1.0</key>
+      <string>gap=0.160000 snap=20.000000^</string>
     <key>com.typemytype.robofont.sort</key>
       <array>
         <dict>
@@ -555,8 +555,8 @@
       <true/>
       </dict>
       </array>
-    <key>com.hodefoting.kernagic.1.0</key>
-      <string>gap=0.160000 snap=20.000000^</string>
+    <key>com.schriftgestaltung.width</key>
+      <string>Condensed</string>
     <key>com.schriftgestaltung.fontMaster.userData</key>
       <dict>
     <key>GSOffsetHorizontal</key>
