@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="1">
+  <advance width="920"/>
+  <unicode hex="1E81"/>
+  <outline>
+    <component base="grave" xOffset="124" yOffset="551"/>
+    <component base="w"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-43</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1360</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1502</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1572</integer>
+	    <key>width</key>	    <integer>86</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>235</integer>
+	    <key>width</key>
+	    <integer>334</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>352</integer>
+	    <key>width</key>
+	    <integer>45</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>379</integer>
+	    <key>width</key>
+	    <integer>72</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>655</integer>
+	    <key>width</key>
+	    <integer>56</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>682</integer>
+	    <key>width</key>
+	    <integer>61</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

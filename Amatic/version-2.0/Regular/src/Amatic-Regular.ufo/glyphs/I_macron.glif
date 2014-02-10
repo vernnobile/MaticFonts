@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="660"/>
+  <unicode hex="012A"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni02C9" xOffset="-16" yOffset="731"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>10</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1484</integer>
+	    <key>width</key>	    <integer>64</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1673</integer>
+	    <key>width</key>	    <integer>50</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-22</integer>
+	    <key>width</key>
+	    <integer>395</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>172</integer>
+	    <key>width</key>
+	    <integer>47</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>202</integer>
+	    <key>width</key>
+	    <integer>68</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

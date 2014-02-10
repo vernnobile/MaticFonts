@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="828"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="549" y="412" type="line"/>
+      <point x="526" y="434"/>
+      <point x="418" y="557"/>
+      <point x="403" y="562" type="curve"/>
+      <point x="377" y="560"/>
+      <point x="317" y="430"/>
+      <point x="251" y="430" type="curve" smooth="yes"/>
+      <point x="221" y="430"/>
+      <point x="189" y="460"/>
+      <point x="189" y="490" type="curve" smooth="yes"/>
+      <point x="189" y="528"/>
+      <point x="297" y="601"/>
+      <point x="323" y="638" type="curve"/>
+      <point x="277" y="681"/>
+      <point x="158" y="755"/>
+      <point x="158" y="823" type="curve" smooth="yes"/>
+      <point x="158" y="854"/>
+      <point x="188" y="880"/>
+      <point x="218" y="880" type="curve" smooth="yes"/>
+      <point x="244" y="880"/>
+      <point x="375" y="748"/>
+      <point x="407" y="721" type="curve"/>
+      <point x="463" y="750"/>
+      <point x="505" y="866"/>
+      <point x="580" y="866" type="curve" smooth="yes"/>
+      <point x="608" y="866"/>
+      <point x="634" y="839"/>
+      <point x="634" y="811" type="curve" smooth="yes"/>
+      <point x="634" y="745"/>
+      <point x="496" y="707"/>
+      <point x="496" y="643" type="curve" smooth="yes"/>
+      <point x="496" y="583"/>
+      <point x="655" y="539"/>
+      <point x="655" y="473" type="curve" smooth="yes"/>
+      <point x="655" y="435"/>
+      <point x="620" y="399"/>
+      <point x="582" y="399" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>399</integer>
+	    <key>width</key>	    <integer>481</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>158</integer>
+	    <key>width</key>
+	    <integer>338</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

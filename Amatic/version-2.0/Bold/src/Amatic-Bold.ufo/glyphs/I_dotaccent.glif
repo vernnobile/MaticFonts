@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="702"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccent" xOffset="-56" yOffset="604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>3</integer>
+	    <key>width</key>	    <integer>110</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1442</integer>
+	    <key>width</key>	    <integer>111</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1707</integer>
+	    <key>width</key>	    <integer>152</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>247</integer>
+	    <key>width</key>
+	    <integer>93</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>285</integer>
+	    <key>width</key>
+	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>317</integer>
+	    <key>width</key>
+	    <integer>150</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

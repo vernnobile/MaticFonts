@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEmacron" format="1">
+  <advance width="1026"/>
+  <unicode hex="01E2"/>
+  <outline>
+    <component base="AE"/>
+    <component base="uni02C9" xOffset="424" yOffset="644"/>
+  </outline>
+</glyph>

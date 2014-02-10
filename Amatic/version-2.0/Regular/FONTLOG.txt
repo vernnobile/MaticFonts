@@ -1,0 +1,53 @@
+
+FONTLOG for Amatic fonts
+
+This file provides detailed information on the Amatic 
+Font Software.
+
+This information should be distributed along with the 
+Amatic fonts and any derivative works.
+
+Basic Font Information
+
+Amatic is a simple but effective hand drawn webfont. Amatic can be used for titling and text. Amatic has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.
+
+
+More specifically, this release supports the following 
+Unicode ranges: Latin-1
+
+For each style there are 4 Source files:
+
+1. FONT-OTF.ufo Original Source Files in UFO format
+
+1. FONT-kern.fea Source kerning file in Adobe OpenType Feature File format
+
+3. Font-TTF.sfd TrueType sources that correspond to the unhinted TTF file
+
+4. FONT-unhinted.ttf TrueType binary, unhinted
+
+To contribute to the project contact Vernon Adams
+at vern@newtypography.co.uk
+
+ChangeLog
+
+Amatic v1.000
+- Initial release of Regular and Bold weights.
+
+Amatic v1.2 (February 2012)
+- Some cleaning up of curves.
+- Fixed question character in Bold weight to render correctly.
+- many lettershapes adjusted
+- ttfautohint applied
+
+
+Amatic v2.0 (December 2013)
+- Extended to support Latin-3
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: DDD
+E: EEE
+W: 
+D: Original Type Designer

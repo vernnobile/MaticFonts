@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="620"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute" xOffset="14" yOffset="731"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1526</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1674</integer>
+	    <key>width</key>	    <integer>239</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>204</integer>
+	    <key>width</key>
+	    <integer>299</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>231</integer>
+	    <key>width</key>
+	    <integer>84</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>260</integer>
+	    <key>width</key>
+	    <integer>74</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
