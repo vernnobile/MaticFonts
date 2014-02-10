@@ -10,44 +10,50 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-31</integer>
-	    <key>width</key>	    <integer>122</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1511</integer>
-	    <key>width</key>	    <integer>103</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1598</integer>
-	    <key>width</key>	    <integer>99</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>196</integer>
-	    <key>width</key>
-	    <integer>92</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>213</integer>
-	    <key>width</key>
-	    <integer>477</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>593</integer>
-	    <key>width</key>
-	    <integer>118</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-31</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1511</integer>
+            <key>width</key>
+            <integer>103</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1598</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>196</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>213</integer>
+            <key>width</key>
+            <integer>477</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>593</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

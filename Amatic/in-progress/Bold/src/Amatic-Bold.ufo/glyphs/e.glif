@@ -74,39 +74,52 @@
       <point x="321" y="1352"/>
       <point x="524" y="1323"/>
     </contour>
+    <contour>
+      <point x="387" y="1365" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="426" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="347" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-27</integer>
-	    <key>width</key>	    <integer>104</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>718</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>190</integer>
-	    <key>width</key>
-	    <integer>122</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>193</integer>
-	    <key>width</key>
-	    <integer>331</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-27</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>718</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>193</integer>
+            <key>width</key>
+            <integer>331</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

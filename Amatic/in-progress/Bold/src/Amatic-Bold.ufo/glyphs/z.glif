@@ -46,37 +46,46 @@
       <point x="166" y="339"/>
       <point x="373" y="878"/>
     </contour>
+    <contour>
+      <point x="447" y="1365" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-4</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>18</integer>
-	    <key>width</key>	    <integer>87</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1244</integer>
-	    <key>width</key>	    <integer>115</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>166</integer>
-	    <key>width</key>
-	    <integer>409</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-4</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>18</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1244</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>166</integer>
+            <key>width</key>
+            <integer>409</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

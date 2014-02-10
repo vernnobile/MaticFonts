@@ -72,33 +72,43 @@
       <point x="429" y="391"/>
       <point x="429" y="246" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="377" y="1365" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="402" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>18</integer>
-	    <key>width</key>	    <integer>100</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1254</integer>
-	    <key>width</key>	    <integer>102</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>307</integer>
-	    <key>width</key>
-	    <integer>112</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>18</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1254</integer>
+            <key>width</key>
+            <integer>102</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>307</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

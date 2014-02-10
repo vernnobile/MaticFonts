@@ -47,45 +47,55 @@
       <point x="699" y="503"/>
       <point x="525" y="-5"/>
     </contour>
+    <contour>
+      <point x="357" y="1536" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="240" y="809" type="move" name="mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-5</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1429</integer>
-	    <key>width</key>	    <integer>123</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>142</integer>
-	    <key>width</key>
-	    <integer>126</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>219</integer>
-	    <key>width</key>
-	    <integer>98</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>594</integer>
-	    <key>width</key>
-	    <integer>105</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-5</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1429</integer>
+            <key>width</key>
+            <integer>123</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>142</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>219</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>594</integer>
+            <key>width</key>
+            <integer>105</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

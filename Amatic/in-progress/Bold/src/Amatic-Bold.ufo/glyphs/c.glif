@@ -44,33 +44,43 @@
       <point x="174" y="1005"/>
       <point x="182" y="1364"/>
     </contour>
+    <contour>
+      <point x="467" y="1365" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="440" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-29</integer>
-	    <key>width</key>	    <integer>108</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1258</integer>
-	    <key>width</key>	    <integer>106</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>174</integer>
-	    <key>width</key>
-	    <integer>131</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-29</integer>
+            <key>width</key>
+            <integer>108</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1258</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>174</integer>
+            <key>width</key>
+            <integer>131</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

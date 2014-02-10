@@ -4,56 +4,74 @@
   <unicode hex="021A"/>
   <outline>
     <component base="T"/>
-    <component base="uni0326" xOffset="58" yOffset="38"/>
+    <component base="cedilla" xOffset="114"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-512</integer>
-	    <key>width</key>	    <integer>376</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-14</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1438</integer>
-	    <key>width</key>	    <integer>112</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>312</integer>
-	    <key>width</key>
-	    <integer>241</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>339</integer>
-	    <key>width</key>
-	    <integer>102</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>351</integer>
-	    <key>width</key>
-	    <integer>125</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>367</integer>
-	    <key>width</key>
-	    <integer>92</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-499</integer>
+            <key>width</key>
+            <integer>81</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-234</integer>
+            <key>width</key>
+            <integer>128</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-14</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1438</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>339</integer>
+            <key>width</key>
+            <integer>102</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>351</integer>
+            <key>width</key>
+            <integer>125</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>367</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>373</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>544</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>

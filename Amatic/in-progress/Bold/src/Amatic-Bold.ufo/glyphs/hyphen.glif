@@ -2,7 +2,6 @@
 <glyph name="hyphen" format="1">
   <advance width="792"/>
   <unicode hex="002D"/>
-  <unicode hex="2015"/>
   <outline>
     <contour>
       <point x="616" y="739" type="curve" smooth="yes"/>
@@ -18,29 +17,34 @@
       <point x="581" y="798"/>
       <point x="616" y="775"/>
     </contour>
+    <contour>
+      <point x="401" y="727" type="move" name="_mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>656</integer>
-	    <key>width</key>	    <integer>142</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>174</integer>
-	    <key>width</key>
-	    <integer>442</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>656</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>174</integer>
+            <key>width</key>
+            <integer>442</integer>
+          </dict>
+        </array>
       </dict>
-    <key>lstem</key>
+      <key>lstem</key>
       <integer>0</integer>
     </dict>
   </lib>
