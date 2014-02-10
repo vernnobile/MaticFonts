@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="580"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="211" y="31" type="curve" smooth="yes"/>
+      <point x="211" y="49"/>
+      <point x="212" y="72"/>
+      <point x="212" y="113" type="curve" smooth="yes"/>
+      <point x="212" y="306"/>
+      <point x="192" y="499"/>
+      <point x="192" y="694" type="curve" smooth="yes"/>
+      <point x="192" y="979"/>
+      <point x="171" y="1265"/>
+      <point x="171" y="1550" type="curve" smooth="yes"/>
+      <point x="171" y="1566"/>
+      <point x="187" y="1574"/>
+      <point x="201" y="1574" type="curve" smooth="yes"/>
+      <point x="224" y="1574"/>
+      <point x="237" y="1568"/>
+      <point x="237" y="1545" type="curve" smooth="yes"/>
+      <point x="237" y="1359"/>
+      <point x="237" y="1163"/>
+      <point x="245" y="977" type="curve"/>
+      <point x="255" y="610" type="line"/>
+      <point x="255" y="454"/>
+      <point x="274" y="231"/>
+      <point x="278" y="75" type="curve" smooth="yes"/>
+      <point x="278" y="68"/>
+      <point x="283" y="68"/>
+      <point x="312" y="68" type="curve" smooth="yes"/>
+      <point x="438" y="68" type="line" smooth="yes"/>
+      <point x="461" y="68"/>
+      <point x="466" y="49"/>
+      <point x="466" y="31" type="curve" smooth="yes"/>
+      <point x="466" y="15"/>
+      <point x="459" y="-9"/>
+      <point x="441" y="-9" type="curve" smooth="yes"/>
+      <point x="433" y="-9"/>
+      <point x="422" y="-11"/>
+      <point x="410" y="-11" type="curve" smooth="yes"/>
+      <point x="346" y="-12"/>
+      <point x="260" y="-12"/>
+      <point x="245" y="-12" type="curve" smooth="yes"/>
+      <point x="225" y="-12"/>
+      <point x="211" y="8"/>
+    </contour>
+    <contour>
+      <point x="326" y="1536" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="221" y="839" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="334" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>79</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1554</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>119</integer>
+            <key>width</key>
+            <integer>63</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>139</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>189</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
